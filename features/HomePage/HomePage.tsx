@@ -4,6 +4,7 @@ import {
   getGamesFromApi,
   getGamesCountByCategory,
 } from "@/services/games";
+import { FibonacciSequence } from "./components/FibonacciSequence";
 import { GamesSection } from "./components/GamesSection";
 
 const GAMES_PER_SECTION = 6;
@@ -30,5 +31,10 @@ export const HomePage = async () => {
     })
   );
 
-  return <>{sections}</>;
+  return (
+    <>
+      <FibonacciSequence />
+      {sections}
+    </>
+  );
 };
