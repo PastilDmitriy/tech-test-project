@@ -3,7 +3,7 @@
 import { useState, useEffect, useCallback } from "react";
 import { Modal } from "@/components/Modal";
 import { useGameData } from "@/providers";
-import { GameCard } from "@/features/HomePage/components/GameCard";
+import { GameCard } from "@/components/GameCard";
 import type { Game } from "@/types/game";
 
 const RESULTS_PER_PAGE = 8;

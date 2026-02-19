@@ -1,22 +1,29 @@
 import Link from "next/link";
 import type { Game } from "@/types/game";
-import { GameCard } from "../GameCard";
+import { GameCard } from "@/components/GameCard";
 
 interface GamesSectionProps {
   title: string;
+  totalCount: number;
   games: Game[];
   seeAllHref: string;
 }
 
 export const GamesSection = ({
   title,
+  totalCount,
   games,
   seeAllHref,
 }: GamesSectionProps) => {
   return (
     <section className="mb-12">
       <div className="mb-6 flex items-center justify-between">
-        <h2 className="text-2xl font-bold">{title}</h2>
+        <h2 className="text-2xl font-bold">
+          {title}
+          <span className="ml-2 font-normal text-base-content/70">
+            ({totalCount})
+          </span>
+        </h2>
         <Link href={seeAllHref} className="btn btn-primary btn-sm">
           See all
         </Link>

@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import type { Game } from "@/types/game";
-import { GameCard } from "@/features/HomePage/components/GameCard";
+import { GameCard } from "@/components/GameCard";
 
 const INITIAL_LIMIT = 24;
 const LOAD_MORE_LIMIT = 12;

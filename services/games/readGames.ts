@@ -39,3 +39,7 @@ export function getGamesByCategory(
   }
   return games;
 }
+
+export function getGamesCountByCategory(category: string): number {
+  return getGamesByCategory(category).length;
+}
