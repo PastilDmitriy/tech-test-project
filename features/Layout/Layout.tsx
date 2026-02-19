@@ -1,4 +1,5 @@
 import { Footer } from "./components/Footer";
+import { GoHomeButton } from "./components/GoHomeButton";
 import { Header } from "./components/Header";
 
 type LayoutProps = {
@@ -12,7 +13,10 @@ export const Layout = ({ children }: LayoutProps) => {
     <div className="flex min-h-screen flex-col">
       <Header containerClass={CONTAINER_CLASS} />
       <main className="flex-1">
-        <div className={`${CONTAINER_CLASS} py-8`}>{children}</div>
+        <div className={`${CONTAINER_CLASS} py-8`}>
+          <GoHomeButton />
+          {children}
+        </div>
       </main>
       <Footer containerClass={CONTAINER_CLASS} />
     </div>
