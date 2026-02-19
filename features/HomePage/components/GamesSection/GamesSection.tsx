@@ -18,13 +18,13 @@ export const GamesSection = ({
   return (
     <section className="mb-12">
       <div className="mb-6 flex items-center justify-between">
-        <h2 className="text-2xl font-bold">
+        <h2 className="text-xl font-bold md:text-2xl">
           {title}
           <span className="ml-2 font-normal text-base-content/70">
             ({totalCount})
           </span>
         </h2>
-        <Link href={seeAllHref} className="btn btn-primary btn-sm">
+        <Link href={seeAllHref} className="btn btn-primary btn-sm text-base">
           See all
         </Link>
       </div>

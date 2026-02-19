@@ -16,7 +16,7 @@ export const CategoryPageTitle = ({
   const title = category?.name ?? categoryId;
 
   return (
-    <h1 className="mb-8 text-3xl font-bold">
+    <h1 className="mb-8 text-2xl font-bold md:text-3xl">
       All {title}
       <span className="ml-2 font-normal text-base-content/70">
         ({totalCount})

@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, useCallback } from "react";
+import { usePathname } from "next/navigation";
 import { Modal } from "@/components/Modal";
 import { useGameData } from "@/providers";
 import { GameCard } from "@/components/GameCard";
@@ -34,6 +35,7 @@ export const Search = () => {
   const [isLoading, setIsLoading] = useState(false);
   const [hasMore, setHasMore] = useState(false);
   const { categories } = useGameData();
+  const pathname = usePathname();
 
   const fetchResults = useCallback(
     async (currentOffset: number, append: boolean) => {
@@ -81,6 +83,10 @@ export const Search = () => {
     setGames([]);
     setOffset(0);
   };
+
+  useEffect(() => {
+    handleClose();
+  }, [pathname]);
 
   return (
     <Modal
@@ -131,7 +137,7 @@ export const Search = () => {
               No results found
             </p>
           ) : (
-            <div className="grid grid-cols-4 gap-3">
+            <div className="grid grid-cols-2 gap-3 min-[500px]:grid-cols-3 md:grid-cols-4">
               {games.map((game) => (
                 <GameCard key={game.id} game={game} />
               ))}
