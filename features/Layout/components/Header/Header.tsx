@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { Search } from "../Search";
 
 type HeaderProps = {
   containerClass?: string;
@@ -18,13 +19,14 @@ export const Header = ({
       <div
         className={`${containerClass} flex w-full items-center justify-between`}
       >
-        <div className="navbar-start shrink-0">
+        <div className="navbar-start flex shrink-0 items-center gap-4">
           <Link
             href="/"
             className="text-xl font-bold text-base-content hover:text-primary"
           >
             Questplay
           </Link>
+          <Search />
         </div>
         <div className="navbar-end flex shrink-0 gap-2">
           <button
