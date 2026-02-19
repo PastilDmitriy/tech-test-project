@@ -1,0 +1,2503 @@
+[
+  {
+    "id": "evolutionAstronaut",
+    "name": "Astronaut",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Evolution",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "evolutionAstronaut",
+    "slug": "astronaut",
+    "gameVariants": ["evolutionAstronaut"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/06/game.evoAstronaut.thumbnail.200x128.jpg",
+        "altText": "Astronaut",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/06/game.evoAstronaut.thumbnail.512x512.jpg",
+        "altText": "Astronaut",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/06/game.evoAstronaut.thumbnail.750x848.jpg",
+        "altText": "Astronaut",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/06/game.evoAstronaut.thumbnail.660x370.jpg",
+        "altText": "Astronaut",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "jackpotValue": {
+      "value": 5947.23,
+      "currencyCode": "EUR",
+      "currencySymbol": "€"
+    },
+    "contentKey": "evoAstronaut",
+    "gameStudio": "Red Tiger",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetAviator",
+    "name": "Aviator",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "iSoftBetAviator",
+    "slug": "aviator",
+    "gameVariants": ["iSoftBetAviator"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/02/game.isoftbetAviator.thumbnail.200x128_v3.jpg",
+        "altText": "Aviator",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.isoftbetAviator.thumbnail.512x512_v5.png",
+        "altText": "Aviator",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.isoftbetAviator.thumbnail.750x848_v5.png",
+        "altText": "Aviator",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.isoftbetAviator.thumbnail.660x370_v5.png",
+        "altText": "Aviator",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "isoftbetAviator",
+    "gameStudio": "Spribe",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetAztecGoldMines",
+    "name": "Aztec Gold Mines",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "iSoftBetAztecGoldMines",
+    "slug": "aztec-gold-mines",
+    "gameVariants": ["iSoftBetAztecGoldMines"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/05/game.isoftbetAztecGoldMines.thumbnail.200x128.jpg",
+        "altText": "Aztec Gold Mines",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/05/game.isoftbetAztecGoldMines.thumbnail.512x512.jpg",
+        "altText": "Aztec Gold Mines",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/05/game.isoftbetAztecGoldMines.thumbnail.750x848.jpg",
+        "altText": "Aztec Gold Mines",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/05/game.isoftbetAztecGoldMines.thumbnail.660x370.jpg",
+        "altText": "Aztec Gold Mines",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "isoftbetAztecGoldMines",
+    "gameStudio": "ISoftBet",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetCleopatraMines",
+    "name": "Cleopatra Mines",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": true,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "iSoftBetCleopatraMines",
+    "slug": "cleopatra-mines",
+    "gameVariants": ["iSoftBetCleopatraMines"],
+    "collections": ["CrashGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.isoftbetCleopatraMines.thumbnail.200x128.jpg",
+        "altText": "Cleopatra Mines",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.isoftbetCleopatraMines.thumbnail.512x512.png",
+        "altText": "Cleopatra Mines",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.isoftbetCleopatraMines.thumbnail.750x848.png",
+        "altText": "Cleopatra Mines",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.isoftbetCleopatraMines.thumbnail.660x370.png",
+        "altText": "Cleopatra Mines",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "isoftbetCleopatraMines",
+    "gameStudio": "ISoftBet",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetCoinVault",
+    "name": "Coin Vault",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "iSoftBetCoinVault",
+    "slug": "coin-vault",
+    "gameVariants": ["iSoftBetCoinVault"],
+    "collections": ["CrashGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/05/game.isoftbetCoinVault.thumbnail.200x128.jpg",
+        "altText": "Coin Vault",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/05/game.isoftbetCoinVault.thumbnail.512x512.jpg",
+        "altText": "Coin Vault",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/05/game.isoftbetCoinVault.thumbnail.750x848.jpg",
+        "altText": "Coin Vault",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/05/game.isoftbetCoinVault.thumbnail.660x370.jpg",
+        "altText": "Coin Vault",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "isoftbetCoinVault",
+    "gameStudio": "1x2 Gaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetCrashEvolution",
+    "name": "Crash Evolution",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "iSoftBetCrashEvolution",
+    "slug": "crash-evolution",
+    "gameVariants": ["iSoftBetCrashEvolution"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/01/game.isoftbetCrashEvolution.thumbnail.200x128.jpg",
+        "altText": "Crash Evolution",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/01/game.isoftbetCrashEvolution.thumbnail.512x512.jpg",
+        "altText": "Crash Evolution",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/01/game.isoftbetCrashEvolution.thumbnail.750x848.jpg",
+        "altText": "Crash Evolution",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/01/game.isoftbetCrashEvolution.thumbnail.660x370.jpg",
+        "altText": "Crash Evolution",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "iSoftBetCrashEvolution",
+    "gameStudio": "Darwin Gaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetFlipNSpinV94",
+    "name": "Flip N Spin",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "iSoftBetFlipNSpinV94",
+    "slug": "flip-n-spin",
+    "gameVariants": ["iSoftBetFlipNSpinV94"],
+    "collections": ["CrashGames", "OtherGames", "TableGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/04/game.isoftbetFlipNSpinV94.thumbnail.200x128.jpg",
+        "altText": "Flip N Spin",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/04/game.isoftbetFlipNSpinV94.thumbnail.512x512.jpg",
+        "altText": "Flip N Spin",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/04/game.isoftbetFlipNSpinV94.thumbnail.750x848.jpg",
+        "altText": "Flip N Spin",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/04/game.isoftbetFlipNSpinV94.thumbnail.660x370.jpg",
+        "altText": "Flip N Spin",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "isoftbetFlipNSpinV94",
+    "gameStudio": "Ad Lunam",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetGoldDiggerMines",
+    "name": "Gold Digger Mines",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "iSoftBetGoldDiggerMines",
+    "slug": "gold-digger-mines",
+    "gameVariants": ["iSoftBetGoldDiggerMines"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/02/game.isoftbetGoldDiggerMines.thumbnail.200x128.jpg",
+        "altText": "Gold Digger Mines",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.isoftbetGoldDiggerMines.thumbnail.512x512_v3.png",
+        "altText": "Gold Digger Mines",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.isoftbetGoldDiggerMines.thumbnail.750x848_v3.png",
+        "altText": "Gold Digger Mines",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.isoftbetGoldDiggerMines.thumbnail.660x370_v3.png",
+        "altText": "Gold Digger Mines",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "isoftbetGoldDiggerMines",
+    "gameStudio": "ISoftBet",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetGoldenGalsCashTower",
+    "name": "Golden Gals Cash Towers",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "iSoftBetGoldenGalsCashTower",
+    "slug": "golden-gals-cash-towers",
+    "gameVariants": ["iSoftBetGoldenGalsCashTower"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/09/game.isoftbetGoldenGalsCashTowers.thumbnail.200x128.jpg",
+        "altText": "Golden Gals Cash Towers",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/09/game.isoftbetGoldenGalsCashTowers.thumbnail.512x512.jpg",
+        "altText": "Golden Gals Cash Towers",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/09/game.isoftbetGoldenGalsCashTowers.thumbnail.750x848.jpg",
+        "altText": "Golden Gals Cash Towers",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/09/game.isoftbetGoldenGalsCashTowers.thumbnail.660x370.jpg",
+        "altText": "Golden Gals Cash Towers",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "isoftbetGoldenGalsCashTowers",
+    "gameStudio": "Indigo Magic",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetGolfingGloryV94",
+    "name": "Golfing Glory",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "iSoftBetGolfingGloryV94",
+    "slug": "golfing-glory",
+    "gameVariants": ["iSoftBetGolfingGloryV94"],
+    "collections": ["Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/05/game.isoftbetGolfingGloryV94.thumbnail.200x128.jpg",
+        "altText": "Golfing Glory",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/05/game.isoftbetGolfingGloryV94.thumbnail.512x512.jpg",
+        "altText": "Golfing Glory",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/05/game.isoftbetGolfingGloryV94.thumbnail.750x848.jpg",
+        "altText": "Golfing Glory",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/05/game.isoftbetGolfingGloryV94.thumbnail.660x370.jpg",
+        "altText": "Golfing Glory",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "isoftbetGolfingGloryV94",
+    "gameStudio": "Indigo Magic",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetHeadsandTailsXY",
+    "name": "Heads And Tails XY",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "iSoftBetHeadsandTailsXY",
+    "slug": "heads-and-tails-xy",
+    "gameVariants": ["iSoftBetHeadsandTailsXY"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/07/game.isoftbetHeadsAndTailsXY.thumbnail.200x128.jpg",
+        "altText": "Heads And Tails XY",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/07/game.isoftbetHeadsAndTailsXY.thumbnail.512x512.jpg",
+        "altText": "Heads And Tails XY",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/07/game.isoftbetHeadsAndTailsXY.thumbnail.750x848.jpg",
+        "altText": "Heads And Tails XY",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/07/game.isoftbetHeadsAndTailsXY.thumbnail.660x370.jpg",
+        "altText": "Heads And Tails XY",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "iSoftBetHeadsandTailsXY",
+    "gameStudio": "Bgaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetMaverick",
+    "name": "Maverick",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "iSoftBetMaverick",
+    "slug": "maverick",
+    "gameVariants": ["iSoftBetMaverick"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/04/game.isoftbetMaverick.thumbnail.200x128.jpg",
+        "altText": "Maverick",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/04/game.isoftbetMaverick.thumbnail.512x512.jpg",
+        "altText": "Maverick",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/04/game.isoftbetMaverick.thumbnail.750x848.jpg",
+        "altText": "Maverick",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/04/game.isoftbetMaverick.thumbnail.660x370.jpg",
+        "altText": "Maverick",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "isoftbetMaverick",
+    "gameStudio": "1x2 Gaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetMaverickX",
+    "name": "Maverick X",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "iSoftBetMaverickX",
+    "slug": "maverick-x",
+    "gameVariants": ["iSoftBetMaverickX"],
+    "collections": ["Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/05/game.isoftbetMaverickX.thumbnail.200x128.jpg",
+        "altText": "Maverick X",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/05/game.isoftbetMaverickX.thumbnail.512x512.jpg",
+        "altText": "Maverick X",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/05/game.isoftbetMaverickX.thumbnail.750x848.jpg",
+        "altText": "Maverick X",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/05/game.isoftbetMaverickX.thumbnail.660x370.jpg",
+        "altText": "Maverick X",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "isoftbetMaverickX",
+    "gameStudio": "Ad Lunam",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetRocketDiceXY",
+    "name": "Rocket Dice XY",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "iSoftBetRocketDiceXY",
+    "slug": "rocket-dice-xy",
+    "gameVariants": ["iSoftBetRocketDiceXY"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/07/game.isoftbetRocketDiceXY.thumbnail.200x128.jpg",
+        "altText": "Rocket Dice XY",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/07/game.isoftbetRocketDiceXY.thumbnail.512x512.jpg",
+        "altText": "Rocket Dice XY",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/07/game.isoftbetRocketDiceXY.thumbnail.750x848.jpg",
+        "altText": "Rocket Dice XY",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/07/game.isoftbetRocketDiceXY.thumbnail.660x370.jpg",
+        "altText": "Rocket Dice XY",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "iSoftBetRocketDiceXY",
+    "gameStudio": "Bgaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetRockPaperScissorsDraw",
+    "name": "Rock Paper Scissors Draw",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "iSoftBetRockPaperScissorsDraw",
+    "slug": "rock-paper-scissors-draw",
+    "gameVariants": ["iSoftBetRockPaperScissorsDraw"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/04/game.isoftbetRockPaperScissorsDraw.thumbnail.200x128.jpg",
+        "altText": "Rock Paper Scissors Draw",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/04/game.isoftbetRockPaperScissorsDraw.thumbnail.512x512.jpg",
+        "altText": "Rock Paper Scissors Draw",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/04/game.isoftbetRockPaperScissorsDraw.thumbnail.750x848.jpg",
+        "altText": "Rock Paper Scissors Draw",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/04/game.isoftbetRockPaperScissorsDraw.thumbnail.660x370.jpg",
+        "altText": "Rock Paper Scissors Draw",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "isoftbetRockPaperScissorsDraw",
+    "gameStudio": "Ad Lunam",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetSpeedChampion",
+    "name": "Speed Champion",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "iSoftBetSpeedChampion",
+    "slug": "speed-champion",
+    "gameVariants": ["iSoftBetSpeedChampion"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/10/game.isoftbetSpeedChampion.thumbnail.200x128.jpg",
+        "altText": "Speed Champion",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/10/game.isoftbetSpeedChampion.thumbnail.512x512.jpg",
+        "altText": "Speed Champion",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/10/game.isoftbetSpeedChampion.thumbnail.750x848.jpg",
+        "altText": "Speed Champion",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/10/game.isoftbetSpeedChampion.thumbnail.660x370.jpg",
+        "altText": "Speed Champion",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "iSoftBetSpeedChampion",
+    "gameStudio": "Indigo Magic",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "leanderJokerAndTheThief2V94",
+    "name": "Joker And The Thief 2",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "LeanderCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "leanderJokerAndTheThief2V94",
+    "slug": "joker-and-the-thief-2",
+    "gameVariants": ["leanderJokerAndTheThief2V94"],
+    "collections": ["CrashGames", "OtherGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/02/game.leanderJokerAndTheThief2V94.thumbnail.200x128.jpg",
+        "altText": "Joker And The Thief 2",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/02/game.leanderJokerAndTheThief2V94.thumbnail.512x512.png",
+        "altText": "Joker And The Thief 2",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/02/game.leanderJokerAndTheThief2V94.thumbnail.750x848.png",
+        "altText": "Joker And The Thief 2",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/02/game.leanderJokerAndTheThief2V94.thumbnail.660x370.png",
+        "altText": "Joker And The Thief 2",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "leanderJokerAndTheThief2V94",
+    "gameStudio": "RAW iGaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "microgamingBallsGaloreLightningDrop",
+    "name": "Balls Galore Lightning Drop",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "MicrogamingCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "microgamingBallsGaloreLightningDrop",
+    "slug": "balls-galore-lightning-drop",
+    "gameVariants": ["microgamingBallsGaloreLightningDrop"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/06/game.ggBallsGaloreLightningDrop.thumbnail.200x128.jpg",
+        "altText": "Balls Galore Lightning Drop",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/06/game.ggBallsGaloreLightningDrop.thumbnail.512x512.jpg",
+        "altText": "Balls Galore Lightning Drop",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/06/game.ggBallsGaloreLightningDrop.thumbnail.750x848.jpg",
+        "altText": "Balls Galore Lightning Drop",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/06/game.ggBallsGaloreLightningDrop.thumbnail.660x370.jpg",
+        "altText": "Balls Galore Lightning Drop",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "ggBallsGaloreLightningDrop",
+    "gameStudio": "Coin Machine",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "microgamingFlyX",
+    "name": "Fly X",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "MicrogamingCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "microgamingFlyX",
+    "slug": "fly-x",
+    "gameVariants": ["microgamingFlyX"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Betsson/Common/neutral/image/2025/04/game.ggFlyX.thumbnail.200x128.jpg",
+        "altText": "Fly X",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Betsson/Common/neutral/image/2025/04/game.ggFlyX.thumbnail.512x512.png",
+        "altText": "Fly X",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Betsson/Common/neutral/image/2025/04/game.ggFlyX.thumbnail.750x848.png",
+        "altText": "Fly X",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Betsson/Common/neutral/image/2025/04/game.ggFlyX.thumbnail.660x370.png",
+        "altText": "Fly X",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "ggFlyX",
+    "gameStudio": "Buck Stakes Entertainment",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "microgamingThunderstruckFlyXV94",
+    "name": "Thunderstruck Fly X",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": true,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "MicrogamingCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "microgamingThunderstruckFlyXV94",
+    "slug": "thunderstruck-fly-x",
+    "gameVariants": ["microgamingThunderstruckFlyXV94"],
+    "collections": ["CrashGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/04/game.ggThunderstruckFlyXV94.thumbnail.200x128.jpg",
+        "altText": "Thunderstruck Fly X",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/04/game.ggThunderstruckFlyXV94.thumbnail.512x512.png",
+        "altText": "Thunderstruck Fly X",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/04/game.ggThunderstruckFlyXV94.thumbnail.750x848.png",
+        "altText": "Thunderstruck Fly X",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/04/game.ggThunderstruckFlyXV94.thumbnail.660x370.png",
+        "altText": "Thunderstruck Fly X",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "ggThunderstruckFlyXV94",
+    "gameStudio": "Stormcraft Studios",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "noLimitCityOutsourcedSlashGameV94",
+    "name": "Outsourced Slash Game",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NoLimitCityCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "noLimitCityOutsourcedSlashGameV94",
+    "slug": "outsourced-slash-game",
+    "gameVariants": ["noLimitCityOutsourcedSlashGameV94"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/11/game.nlcOutsourcedSlashGameV94.thumbnail.200x128.jpg",
+        "altText": "Outsourced Slash Game",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/11/game.nlcOutsourcedSlashGameV94.thumbnail.512x512.png",
+        "altText": "Outsourced Slash Game",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/11/game.nlcOutsourcedSlashGameV94.thumbnail.750x848.png",
+        "altText": "Outsourced Slash Game",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/11/game.nlcOutsourcedSlashGameV94.thumbnail.660x370.png",
+        "altText": "Outsourced Slash Game",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nlcOutsourcedSlashGameV94",
+    "gameStudio": "NoLimitCity",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxStacKingKong",
+    "name": "StacKing Kong",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "nyxStacKingKong",
+    "slug": "stacking-kong",
+    "gameVariants": ["nyxStacKingKong"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/07/game.lnwStacKingKong.thumbnail.200x128.jpg",
+        "altText": "StacKing Kong",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/07/game.lnwStacKingKong.thumbnail.512x512.jpg",
+        "altText": "StacKing Kong",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/07/game.lnwStacKingKong.thumbnail.750x848.jpg",
+        "altText": "StacKing Kong",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/07/game.lnwStacKingKong.thumbnail.660x370.jpg",
+        "altText": "StacKing Kong",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "lnwStacKingKong",
+    "gameStudio": "Rogue",
+    "launchType": "Default",
+    "isAvailableForFun": false
+  },
+  {
+    "id": "playnGoMinerDonkeyRider",
+    "name": "Miner Donkey Rider",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": true,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "PlaynGoCasino",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "playnGoMinerDonkeyRider",
+    "slug": "miner-donkey-rider",
+    "gameVariants": ["playnGoMinerDonkeyRider"],
+    "collections": ["CrashGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.playngoMinerDonkeyRider.thumbnail.200x128.jpg",
+        "altText": "Miner Donkey Rider",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.playngoMinerDonkeyRider.thumbnail.512x512.png",
+        "altText": "Miner Donkey Rider",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.playngoMinerDonkeyRider.thumbnail.750x848.png",
+        "altText": "Miner Donkey Rider",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.playngoMinerDonkeyRider.thumbnail.660x370.png",
+        "altText": "Miner Donkey Rider",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "playngoMinerDonkeyRider",
+    "gameStudio": "PlaynGo",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "playtechCashIt",
+    "name": "Cash It",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Playtech",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "playtechCashIt",
+    "slug": "cash-it",
+    "gameVariants": ["playtechCashIt"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/02/game.playtechCashIt.thumbnail.200x128.jpg",
+        "altText": "Cash It",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/01/game.playtechCashIt.thumbnail.512x512_v3.png",
+        "altText": "Cash It",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/01/game.playtechCashIt.thumbnail.750x848_v3.png",
+        "altText": "Cash It",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/01/game.playtechCashIt.thumbnail.660x370_v3.png",
+        "altText": "Cash It",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "playtechCashIt",
+    "gameStudio": "Playtech",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "playtechCircusLaunch",
+    "name": "Circus Launch",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Playtech",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "playtechCircusLaunch",
+    "slug": "circus-launch",
+    "gameVariants": ["playtechCircusLaunch"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/12/game.playtechCircusLaunch.thumbnail.200x128.jpg",
+        "altText": "Circus Launch",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.playtechCircusLaunch.thumbnail.512x512_v3.png",
+        "altText": "Circus Launch",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.playtechCircusLaunch.thumbnail.750x848_v3.png",
+        "altText": "Circus Launch",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.playtechCircusLaunch.thumbnail.660x370_v3.png",
+        "altText": "Circus Launch",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "playtechCircusLaunch",
+    "gameStudio": "Playtech",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "playtechMegaFireBlazePlinko",
+    "name": "Mega Fire Blaze Plinko",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": true,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Playtech",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "playtechMegaFireBlazePlinko",
+    "slug": "mega-fire-blaze-plinko",
+    "gameVariants": ["playtechMegaFireBlazePlinko"],
+    "collections": ["CrashGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.playtechMegaFireBlazePlinko.thumbnail.200x128.jpg",
+        "altText": "Mega Fire Blaze Plinko",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.playtechMegaFireBlazePlinko.thumbnail.512x512.png",
+        "altText": "Mega Fire Blaze Plinko",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.playtechMegaFireBlazePlinko.thumbnail.750x848.png",
+        "altText": "Mega Fire Blaze Plinko",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.playtechMegaFireBlazePlinko.thumbnail.660x370.png",
+        "altText": "Mega Fire Blaze Plinko",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "playtechMegaFireBlazePlinko",
+    "gameStudio": "Playtech",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "playtechMineALicious",
+    "name": "Mine A Licious",
+    "shouldShowJackpot": true,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": true,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Playtech",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "playtechMineALicious",
+    "slug": "mine-a-licious",
+    "gameVariants": ["playtechMineALicious"],
+    "collections": ["CrashGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.playtechMineALicious.thumbnail.200x128.jpg",
+        "altText": "Mine A Licious",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.playtechMineALicious.thumbnail.512x512.png",
+        "altText": "Mine A Licious",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.playtechMineALicious.thumbnail.750x848.png",
+        "altText": "Mine A Licious",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.playtechMineALicious.thumbnail.660x370.png",
+        "altText": "Mine A Licious",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "playtechMineALicious",
+    "gameStudio": "Playtech",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "playtechStreakOfLuckDoubleDice",
+    "name": "Streak Of Luck Double Dice",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Playtech",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "playtechStreakOfLuckDoubleDice",
+    "slug": "streak-of-luck-double-dice",
+    "gameVariants": ["playtechStreakOfLuckDoubleDice"],
+    "collections": ["CrashGames", "Slots", "TableGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/01/game.playtechStreakOfLuckDoubleDice.thumbnail.200x128.jpg",
+        "altText": "Streak Of Luck Double Dice",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/01/game.playtechStreakOfLuckDoubleDice.thumbnail.512x512.png",
+        "altText": "Streak Of Luck Double Dice",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/01/game.playtechStreakOfLuckDoubleDice.thumbnail.750x848.png",
+        "altText": "Streak Of Luck Double Dice",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/01/game.playtechStreakOfLuckDoubleDice.thumbnail.660x370.png",
+        "altText": "Streak Of Luck Double Dice",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "playtechStreakOfLuckDoubleDice",
+    "gameStudio": "Playtech",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "pragmaticPlayBigBassCrash",
+    "name": "Big Bass Crash",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "PragmaticPlay",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "pragmaticPlayBigBassCrash",
+    "slug": "big-bass-crash",
+    "gameVariants": ["pragmaticPlayBigBassCrash"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/09/game.pragmaticPlayBigBassCrash.thumbnail.200x128.jpg",
+        "altText": "Big Bass Crash",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.pragmaticPlayBigBassCrash.thumbnail.512x512_v3.png",
+        "altText": "Big Bass Crash",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.pragmaticPlayBigBassCrash.thumbnail.750x848_v3.png",
+        "altText": "Big Bass Crash",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.pragmaticPlayBigBassCrash.thumbnail.660x370_v3.png",
+        "altText": "Big Bass Crash",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "pragmaticPlayBigBassCrash",
+    "gameStudio": "Pragmatic Play",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "pragmaticPlayHighFlyer",
+    "name": "High Flyer",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "PragmaticPlay",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "pragmaticPlayHighFlyer",
+    "slug": "high-flyer",
+    "gameVariants": ["pragmaticPlayHighFlyer"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/09/game.pragmaticPlayHighFlyer.thumbnail.200x128.jpg",
+        "altText": "High Flyer",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/09/game.pragmaticPlayHighFlyer.thumbnail.512x512.jpg",
+        "altText": "High Flyer",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/09/game.pragmaticPlayHighFlyer.thumbnail.750x848.jpg",
+        "altText": "High Flyer",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/09/game.pragmaticPlayHighFlyer.thumbnail.660x370.jpg",
+        "altText": "High Flyer",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "pragmaticPlayHighFlyer",
+    "gameStudio": "Pragmatic Play",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "pragmaticPlaySpaceman",
+    "name": "Spaceman",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "PragmaticPlay",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "pragmaticPlaySpaceman",
+    "slug": "spaceman",
+    "gameVariants": ["pragmaticPlaySpaceman"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.pragmaticPlaySpaceman.thumbnail.200x128.jpg",
+        "altText": "Spaceman",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.pragmaticPlaySpaceman.thumbnail.512x512_v3.png",
+        "altText": "Spaceman",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.pragmaticPlaySpaceman.thumbnail.750x848_v3.png",
+        "altText": "Spaceman",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.pragmaticPlaySpaceman.thumbnail.660x370_v3.png",
+        "altText": "Spaceman",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "pragmaticPlaySpaceman",
+    "gameStudio": "Pragmatic Play",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "quickspin100BitDice",
+    "name": "100 Bit Dice",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "quickspin100BitDice",
+    "slug": "100-bit-dice",
+    "gameVariants": ["quickspin100BitDice"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/01/game.relax100BitDice.thumbnail.200x128_v3.jpg",
+        "altText": "100 Bit Dice",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/01/game.relax100BitDice.thumbnail.512x512_v3.jpg",
+        "altText": "100 Bit Dice",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/01/game.relax100BitDice.thumbnail.750x848_v3.jpg",
+        "altText": "100 Bit Dice",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/01/game.relax100BitDice.thumbnail.660x370_v3.jpg",
+        "altText": "100 Bit Dice",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relax100BitDice",
+    "gameStudio": "Relax Gaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "quickspinDirectPearlOPlinkoFireAndbones",
+    "name": "Pearl O' Plinko Fire and Bones",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": true,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "QuickspinDirect",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "quickspinDirectPearlOPlinkoFireAndbones",
+    "slug": "pearl-o-plinko-fire-and-bones",
+    "gameVariants": ["quickspinDirectPearlOPlinkoFireAndbones"],
+    "collections": ["BuyBonusGames", "NewGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/04/game.quickspinDirectPearlOPlinkoFireAndBones.thumbnail.200x128.jpg",
+        "altText": "Pearl O' Plinko Fire and Bones",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/04/game.quickspinDirectPearlOPlinkoFireAndBones.thumbnail.512x512.png",
+        "altText": "Pearl O' Plinko Fire and Bones",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/04/game.quickspinDirectPearlOPlinkoFireAndBones.thumbnail.750x848.png",
+        "altText": "Pearl O' Plinko Fire and Bones",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/04/game.quickspinDirectPearlOPlinkoFireAndBones.thumbnail.660x370.png",
+        "altText": "Pearl O' Plinko Fire and Bones",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "quickspinDirectPearlOPlinkoFireAndbones",
+    "gameStudio": "Quickspin",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "quickspinDirectPearlOPlinkoMermaidCoveV94",
+    "name": "Pearl O Plinko Mermaid Cove",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "QuickspinDirect",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "quickspinDirectPearlOPlinkoMermaidCoveV94",
+    "slug": "pearl-o-plinko-mermaid-cove",
+    "gameVariants": ["quickspinDirectPearlOPlinkoMermaidCoveV94"],
+    "collections": ["Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/01/game.quickspinDirectPearlOPlinkoMermaidCoveV94.thumbnail.200x128.jpg",
+        "altText": "Pearl O Plinko Mermaid Cove",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/01/game.quickspinDirectPearlOPlinkoMermaidCoveV94.thumbnail.512x512.png",
+        "altText": "Pearl O Plinko Mermaid Cove",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/01/game.quickspinDirectPearlOPlinkoMermaidCoveV94.thumbnail.750x848.png",
+        "altText": "Pearl O Plinko Mermaid Cove",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/01/game.quickspinDirectPearlOPlinkoMermaidCoveV94.thumbnail.660x370.png",
+        "altText": "Pearl O Plinko Mermaid Cove",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "quickspinDirectPearlOPlinkoMermaidCoveV94",
+    "gameStudio": "Quickspin",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "reevoBadBassCashTowers",
+    "name": "Bad Bass Cash Towers",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": true,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Reevo",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "reevoBadBassCashTowers",
+    "slug": "bad-bass-cash-towers",
+    "gameVariants": ["reevoBadBassCashTowers"],
+    "collections": ["CrashGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.reevoBadBassCashTowers.thumbnail.200x128.jpg",
+        "altText": "Bad Bass Cash Towers",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.reevoBadBassCashTowers.thumbnail.512x512.png",
+        "altText": "Bad Bass Cash Towers",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.reevoBadBassCashTowers.thumbnail.750x848.png",
+        "altText": "Bad Bass Cash Towers",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.reevoBadBassCashTowers.thumbnail.660x370.png",
+        "altText": "Bad Bass Cash Towers",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "reevoBadBassCashTowers",
+    "gameStudio": "Indigo Magic",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "reevoBetssonPlinko",
+    "name": "Betsson Plinko",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Reevo",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "reevoBetssonPlinko",
+    "slug": "betsson-plinko",
+    "gameVariants": ["reevoBetssonPlinko"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/11/game.reevoBetssonPlinko.thumbnail.200x128.jpg",
+        "altText": "Betsson Plinko",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/11/game.reevoBetssonPlinko.thumbnail.512x512.jpg",
+        "altText": "Betsson Plinko",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/11/game.reevoBetssonPlinko.thumbnail.750x848.jpg",
+        "altText": "Betsson Plinko",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/11/game.reevoBetssonPlinko.thumbnail.660x370.jpg",
+        "altText": "Betsson Plinko",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "reevoBetssonPlinko",
+    "gameStudio": "Bgaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "reevoGoldRushShooter",
+    "name": "Gold Rush Shooter",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Reevo",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "reevoGoldRushShooter",
+    "slug": "gold-rush-shooter",
+    "gameVariants": ["reevoGoldRushShooter"],
+    "collections": ["Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/08/game.reevoGoldRushShooter.thumbnail.200x128.jpg",
+        "altText": "Gold Rush Shooter",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/08/game.reevoGoldRushShooter.thumbnail.512x512.jpg",
+        "altText": "Gold Rush Shooter",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/08/game.reevoGoldRushShooter.thumbnail.750x848.jpg",
+        "altText": "Gold Rush Shooter",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/08/game.reevoGoldRushShooter.thumbnail.660x370.jpg",
+        "altText": "Gold Rush Shooter",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "reevoGoldRushShooter",
+    "gameStudio": "Reevo",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "reevoPlinkoGo",
+    "name": "Plinko Go",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Reevo",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "reevoPlinkoGo",
+    "slug": "plinko-go",
+    "gameVariants": ["reevoPlinkoGo"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/03/game.reevoPlinkoGo.thumbnail.200x128.jpg",
+        "altText": "Plinko Go",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.reevoPlinkoGo.thumbnail.512x512_v3.png",
+        "altText": "Plinko Go",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.reevoPlinkoGo.thumbnail.750x848_v3.png",
+        "altText": "Plinko Go",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.reevoPlinkoGo.thumbnail.660x370_v3.png",
+        "altText": "Plinko Go",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "reevoPlinkoGo",
+    "gameStudio": "1x2 Gaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "reevoSamuraiIkusaV94",
+    "name": "Samurai Ikusa",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Reevo",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "reevoSamuraiIkusaV94",
+    "slug": "samurai-ikusa",
+    "gameVariants": ["reevoSamuraiIkusaV94"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/01/game.reevoSamuraiIkusaV94.thumbnail.200x128.jpg",
+        "altText": "Samurai Ikusa",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/01/game.reevoSamuraiIkusaV94.thumbnail.512x512.png",
+        "altText": "Samurai Ikusa",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/01/game.reevoSamuraiIkusaV94.thumbnail.750x848.png",
+        "altText": "Samurai Ikusa",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/01/game.reevoSamuraiIkusaV94.thumbnail.660x370.png",
+        "altText": "Samurai Ikusa",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "reevoSamuraiIkusaV94",
+    "gameStudio": "Indigo Magic",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "reevoSpartanShields",
+    "name": "Spartan Shields",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Reevo",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "reevoSpartanShields",
+    "slug": "spartan-shields",
+    "gameVariants": ["reevoSpartanShields"],
+    "collections": ["Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/08/game.reevoSpartanShields.thumbnail.200x128.jpg",
+        "altText": "Spartan Shields",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/08/game.reevoSpartanShields.thumbnail.512x512.jpg",
+        "altText": "Spartan Shields",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/08/game.reevoSpartanShields.thumbnail.750x848.jpg",
+        "altText": "Spartan Shields",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/08/game.reevoSpartanShields.thumbnail.660x370.jpg",
+        "altText": "Spartan Shields",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "reevoSpartanShields",
+    "gameStudio": "Reevo",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "relaxBalloon",
+    "name": "Balloon",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "relaxBalloon",
+    "slug": "balloon",
+    "gameVariants": ["relaxBalloon"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/09/game.relaxBalloon.thumbnail.200x128.jpg",
+        "altText": "Balloon",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.relaxBalloon.thumbnail.512x512_v3.png",
+        "altText": "Balloon",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.relaxBalloon.thumbnail.750x848_v3.png",
+        "altText": "Balloon",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.relaxBalloon.thumbnail.660x370_v3.png",
+        "altText": "Balloon",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxBalloon",
+    "gameStudio": "SmartSoft",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "relaxBoxes",
+    "name": "Boxes",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "relaxBoxes",
+    "slug": "boxes",
+    "gameVariants": ["relaxBoxes"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.relaxBoxes.thumbnail.200x128.jpg",
+        "altText": "Boxes",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.relaxBoxes.thumbnail.512x512.jpg",
+        "altText": "Boxes",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.relaxBoxes.thumbnail.750x848.jpg",
+        "altText": "Boxes",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.relaxBoxes.thumbnail.660x370.jpg",
+        "altText": "Boxes",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxBoxes",
+    "gameStudio": "Hacksaw",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "relaxCoins",
+    "name": "Coins",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "relaxCoins",
+    "slug": "coins",
+    "gameVariants": ["relaxCoins"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.relaxCoins.thumbnail.200x128.jpg",
+        "altText": "Coins",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.relaxCoins.thumbnail.512x512.jpg",
+        "altText": "Coins",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.relaxCoins.thumbnail.750x848.jpg",
+        "altText": "Coins",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.relaxCoins.thumbnail.660x370.jpg",
+        "altText": "Coins",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxCoins",
+    "gameStudio": "Hacksaw",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "relaxDeepRush",
+    "name": "Deep Rush",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "relaxDeepRush",
+    "slug": "deep-rush",
+    "gameVariants": ["relaxDeepRush"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/08/game.relaxDeepRush.thumbnail.200x128.jpg",
+        "altText": "Deep Rush",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/08/game.relaxDeepRush.thumbnail.512x512.jpg",
+        "altText": "Deep Rush",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/08/game.relaxDeepRush.thumbnail.750x848.jpg",
+        "altText": "Deep Rush",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/08/game.relaxDeepRush.thumbnail.660x370.jpg",
+        "altText": "Deep Rush",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxDeepRush",
+    "gameStudio": "Kalamba",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "relaxFootballX",
+    "name": "FootballX",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "relaxFootballX",
+    "slug": "footballx",
+    "gameVariants": ["relaxFootballX"],
+    "collections": ["CrashGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/09/game.relaxFootballX.thumbnail.200x128.jpg",
+        "altText": "FootballX",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/09/game.relaxFootballX.thumbnail.512x512.jpg",
+        "altText": "FootballX",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/09/game.relaxFootballX.thumbnail.750x848.jpg",
+        "altText": "FootballX",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/09/game.relaxFootballX.thumbnail.660x370.jpg",
+        "altText": "FootballX",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxFootballX",
+    "gameStudio": "SmartSoft",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "relaxHILO",
+    "name": "HI-LO",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "relaxHILO",
+    "slug": "hi-lo",
+    "gameVariants": ["relaxHILO"],
+    "collections": ["Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/07/game.relaxHILO.thumbnail.200x128.jpg",
+        "altText": "HI-LO",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/07/game.relaxHILO.thumbnail.512x512.jpg",
+        "altText": "HI-LO",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/07/game.relaxHILO.thumbnail.750x848.jpg",
+        "altText": "HI-LO",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/07/game.relaxHILO.thumbnail.660x370.jpg",
+        "altText": "HI-LO",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxHILO",
+    "gameStudio": "Hacksaw",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "relaxJetX",
+    "name": "JetX",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "relaxJetX",
+    "slug": "jetx",
+    "gameVariants": ["relaxJetX"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/07/game.relaxJetX.thumbnail.200x128.jpg",
+        "altText": "JetX",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.relaxJetX.thumbnail.512x512_v3.png",
+        "altText": "JetX",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.relaxJetX.thumbnail.750x848_v3.png",
+        "altText": "JetX",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.relaxJetX.thumbnail.660x370_v3.png",
+        "altText": "JetX",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxJetX",
+    "gameStudio": "SmartSoft",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "relaxLimbo",
+    "name": "Limbo",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "relaxLimbo",
+    "slug": "limbo",
+    "gameVariants": ["relaxLimbo"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/08/game.relaxLimbo.thumbnail.200x128.jpg",
+        "altText": "Limbo",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.relaxLimbo.thumbnail.512x512_v3.png",
+        "altText": "Limbo",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.relaxLimbo.thumbnail.750x848_v3.png",
+        "altText": "Limbo",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/03/game.relaxLimbo.thumbnail.660x370_v3.png",
+        "altText": "Limbo",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxLimbo",
+    "gameStudio": "Hacksaw",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "relaxLuckyFishFinder",
+    "name": "Lucky Fish Finder",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "relaxLuckyFishFinder",
+    "slug": "lucky-fish-finder",
+    "gameVariants": ["relaxLuckyFishFinder"],
+    "collections": ["Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/03/game.relaxLuckyFishFinder.thumbnail.200x128.jpg",
+        "altText": "Lucky Fish Finder",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/03/game.relaxLuckyFishFinder.thumbnail.512x512.jpg",
+        "altText": "Lucky Fish Finder",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/03/game.relaxLuckyFishFinder.thumbnail.750x848.jpg",
+        "altText": "Lucky Fish Finder",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/03/game.relaxLuckyFishFinder.thumbnail.660x370.jpg",
+        "altText": "Lucky Fish Finder",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxLuckyFishFinder",
+    "gameStudio": "Inspired",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "relaxMines",
+    "name": "Mines",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "relaxMines",
+    "slug": "mines",
+    "gameVariants": ["relaxMines"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.relaxMines.thumbnail.200x128.jpg",
+        "altText": "Mines",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.relaxMines.thumbnail.512x512_v3.png",
+        "altText": "Mines",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.relaxMines.thumbnail.750x848_v3.png",
+        "altText": "Mines",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.relaxMines.thumbnail.660x370_v3.png",
+        "altText": "Mines",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxMines",
+    "gameStudio": "Hacksaw",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "relaxPLINKO",
+    "name": "PLINKO",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "relaxPLINKO",
+    "slug": "plinko",
+    "gameVariants": ["relaxPLINKO"],
+    "collections": ["Slots", "SportsbookCrossSellCollection"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/06/game.relaxPlinko.thumbnail.200x128.jpg",
+        "altText": "Plinko",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.relaxPlinko.thumbnail.512x512_v3.png",
+        "altText": "Plinko",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.relaxPlinko.thumbnail.750x848_v3.png",
+        "altText": "Plinko",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.relaxPlinko.thumbnail.660x370_v3.png",
+        "altText": "Plinko",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxPLINKO",
+    "gameStudio": "Hacksaw",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "relaxSpeedCrashV94",
+    "name": "Speed Crash",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "CrashGames",
+    "gameTypes": ["CrashGames"],
+    "primaryVariantId": "relaxSpeedCrashV94",
+    "slug": "speed-crash",
+    "gameVariants": ["relaxSpeedCrashV94"],
+    "collections": ["CrashGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/09/game.relaxSpeedCrashV94.thumbnail.200x128.jpg",
+        "altText": "Speed Crash",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/09/game.relaxSpeedCrashV94.thumbnail.512x512.jpg",
+        "altText": "Speed Crash",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/09/game.relaxSpeedCrashV94.thumbnail.750x848.jpg",
+        "altText": "Speed Crash",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/09/game.relaxSpeedCrashV94.thumbnail.660x370.jpg",
+        "altText": "Speed Crash",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxSpeedCrashV94",
+    "gameStudio": "Hacksaw",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  }
+]

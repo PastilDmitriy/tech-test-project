@@ -1,0 +1,2383 @@
+[
+  {
+    "id": "iSoftBetOceanFortune",
+    "name": "Ocean Fortune Scratch",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "iSoftBetOceanFortune",
+    "slug": "ocean-fortune-scratch",
+    "gameVariants": ["iSoftBetOceanFortune"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/08/game.isoftbetOceanFortune.thumbnail.200x128_v4.jpg",
+        "altText": "Ocean Fortune",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/08/game.isoftbetOceanFortune.thumbnail.512x512.jpg",
+        "altText": "Ocean Fortune Scratch",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/08/game.isoftbetOceanFortune.thumbnail.750x848.jpg",
+        "altText": "Ocean Fortune Scratch",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/08/game.isoftbetOceanFortune.thumbnail.660x370.jpg",
+        "altText": "Ocean Fortune Scratch",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "isoftbetOceanFortune",
+    "gameStudio": "Wizard Games",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "leanderPotsOLuck",
+    "name": "Pots O' Luck Scratch",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "LeanderCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "leanderPotsOLuck",
+    "slug": "pots-o-luck-scratch",
+    "gameVariants": ["leanderPotsOLuck"],
+    "collections": ["OtherGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2017/07/game.leanderPotsOLuck.thumbnail.200x128_v3.jpg",
+        "altText": "Pots Of Luck",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.leanderPotsOLuck.thumbnail.512x512.jpg",
+        "altText": "Pots O' Luck Scratch",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.leanderPotsOLuck.thumbnail.750x848.jpg",
+        "altText": "Pots O' Luck Scratch",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.leanderPotsOLuck.thumbnail.660x370.jpg",
+        "altText": "Pots O' Luck Scratch",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "leanderPotsOLuck",
+    "gameStudio": "Leander",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxADragonsStoryScratch",
+    "name": "A Dragon's Story Scratch",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxADragonsStoryScratch",
+    "slug": "a-dragons-story-scratch",
+    "gameVariants": ["nyxADragonsStoryScratch"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2018/10/game.nyxDragonsStoryScratch.thumbnail.200x128.jpg",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/12/game.nyxDragonsStoryScratch.thumbnail.512x512.jpg",
+        "altText": "A Dragon's Story",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/12/game.nyxDragonsStoryScratch.thumbnail.750x848.jpg",
+        "altText": "A Dragon's Story",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/12/game.nyxDragonsStoryScratch.thumbnail.660x370.jpg",
+        "altText": "A Dragon's Story",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxDragonsStoryScratch",
+    "gameStudio": "Light And Wonder",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxBully4UPullTab",
+    "name": "Bully 4 U",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxBully4UPullTab",
+    "slug": "bully-4-u-pull-tab",
+    "gameVariants": ["nyxBully4UPullTab"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2017/09/game.nyxBully4UPullTab.thumbnail.200x128.jpg",
+        "altText": "Bully 4 U",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.nyxBully4UPullTab.thumbnail.512x512.jpg",
+        "altText": "Bully 4 U",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.nyxBully4UPullTab.thumbnail.750x848.jpg",
+        "altText": "Bully 4 U",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.nyxBully4UPullTab.thumbnail.660x370.jpg",
+        "altText": "Bully 4 U",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxBully4UPullTab",
+    "gameStudio": "Realistic",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxCardsGameVY",
+    "name": "Casino",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxCardsGameVY",
+    "slug": "cards",
+    "gameVariants": ["nyxCardsGameVY"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2017/04/game.nyxCardsGameVY.thumbnail.200x128.jpg",
+        "altText": "Cards",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.nyxCardsGameVY.thumbnail.512x512.jpg",
+        "altText": "Casino",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.nyxCardsGameVY.thumbnail.750x848.jpg",
+        "altText": "Casino",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.nyxCardsGameVY.thumbnail.660x370.jpg",
+        "altText": "Casino",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxCardsGameVY",
+    "gameStudio": "G Games",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxDiamondGameVY",
+    "name": "Diamond",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxDiamondGameVY",
+    "slug": "diamond",
+    "gameVariants": ["nyxDiamondGameVY"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2017/04/game.nyxDiamondGameVY.thumbnail.200x128.jpg",
+        "altText": "Diamond",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.nyxDiamondGameVY.thumbnail.512x512.jpg",
+        "altText": "Diamond",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.nyxDiamondGameVY.thumbnail.750x848.jpg",
+        "altText": "Diamond",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.nyxDiamondGameVY.thumbnail.660x370.jpg",
+        "altText": "Diamond",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxDiamondGameVY",
+    "gameStudio": "G Games",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxDiamondsAndRubies",
+    "name": "Diamonds and Rubies",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxDiamondsAndRubies",
+    "slug": "diamonds-and-rubies",
+    "gameVariants": ["nyxDiamondsAndRubies"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2017/09/game.nyxDiamondsAndRubiesPullTab.thumbnail.200x128.jpg",
+        "altText": "Diamonds &amp; Rubies",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxDiamondsAndRubiesPullTab.thumbnail.512x512.jpg",
+        "altText": "Diamonds and Rubies",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxDiamondsAndRubiesPullTab.thumbnail.750x848.jpg",
+        "altText": "Diamonds and Rubies",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxDiamondsAndRubiesPullTab.thumbnail.660x370.jpg",
+        "altText": "Diamonds and Rubies",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxDiamondsAndRubiesPullTab",
+    "gameStudio": "Realistic",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxFoxinWinsScratch",
+    "name": "Foxin' Wins Scratch",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxFoxinWinsScratch",
+    "slug": "foxin-wins-scratch",
+    "gameVariants": ["nyxFoxinWinsScratch"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2017/04/game.nyxFoxinWinsScratch.thumbnail.200x128.jpg",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxFoxinWinsScratch.thumbnail.512x512.jpg",
+        "altText": "Foxin' Wins Scratch",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxFoxinWinsScratch.thumbnail.750x848.jpg",
+        "altText": "Foxin' Wins Scratch",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxFoxinWinsScratch.thumbnail.660x370.jpg",
+        "altText": "Foxin' Wins Scratch",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxFoxinWinsScratch",
+    "gameStudio": "Light And Wonder",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxGoldenKoi",
+    "name": "Golden koi",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxGoldenKoi",
+    "slug": "golden-koi-pull-tab",
+    "gameVariants": ["nyxGoldenKoi"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2017/09/game.nyxGoldenKoiPullTab.thumbnail.200x128.jpg",
+        "altText": "Golden Koi",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxGoldenKoiPullTab.thumbnail.512x512.jpg",
+        "altText": "Golden koi",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxGoldenKoiPullTab.thumbnail.750x848.jpg",
+        "altText": "Golden koi",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxGoldenKoiPullTab.thumbnail.660x370.jpg",
+        "altText": "Golden koi",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxGoldenKoiPullTab",
+    "gameStudio": "Realistic",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxJingleUp",
+    "name": "Jingle Up!",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxJingleUp",
+    "slug": "jingle-up",
+    "gameVariants": ["nyxJingleUp"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2018/12/game.nyxJingleUp.thumbnail.200x128.jpg",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxJingleUp.thumbnail.512x512.jpg",
+        "altText": "Jingle Up!",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/08/game.nyxJingleUp.thumbnail.750x848_v3.jpg",
+        "altText": "Jingle Up!",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxJingleUp.thumbnail.660x370.jpg",
+        "altText": "Jingle Up!",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxJingleUp",
+    "gameStudio": "Light And Wonder",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxMagicGameVY",
+    "name": "Magic",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxMagicGameVY",
+    "slug": "magic",
+    "gameVariants": ["nyxMagicGameVY"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2017/04/game.nyxMagicGameVY.thumbnail.200x128.jpg",
+        "altText": "Magic",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.nyxMagicGameVY.thumbnail.512x512.jpg",
+        "altText": "Magic",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.nyxMagicGameVY.thumbnail.750x848.jpg",
+        "altText": "Magic",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.nyxMagicGameVY.thumbnail.660x370.jpg",
+        "altText": "Magic",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxMagicGameVY",
+    "gameStudio": "G Games",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxMonsterWInsScratch",
+    "name": "Monster Wins Scratch",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxMonsterWInsScratch",
+    "slug": "monster-wins-scratch",
+    "gameVariants": ["nyxMonsterWInsScratch"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2019/03/game.nyxMonsterWinsScratch.thumbnail.200x128.jpg",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxMonsterWinsScratch.thumbnail.512x512.jpg",
+        "altText": "Monster Wins Scratch",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/07/game.nyxMonsterWinsScratch.thumbnail.750x848_v3.jpg",
+        "altText": "Monster Wins Scratch",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxMonsterWinsScratch.thumbnail.660x370.jpg",
+        "altText": "Monster Wins Scratch",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxMonsterWInsScratch",
+    "gameStudio": "Light And Wonder",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxPotLuckPullTabs",
+    "name": "Pot Luck Pull Tabs",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxPotLuckPullTabs",
+    "slug": "pot-luck-pull-tabs",
+    "gameVariants": ["nyxPotLuckPullTabs"],
+    "collections": ["OtherGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2018/11/game.nyxPotLuckPullTabs.thumbnail.200x128.jpg",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxPotLuckPullTabs.thumbnail.512x512.jpg",
+        "altText": "Pot Luck Pull Tabs",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/07/game.nyxPotLuckPullTabs.thumbnail.750x848_v3.jpg",
+        "altText": "Pot Luck Pull Tabs",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxPotLuckPullTabs.thumbnail.660x370.jpg",
+        "altText": "Pot Luck Pull Tabs",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxPotLuckPullTabs",
+    "gameStudio": "Realistic",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxScratchBigfoot",
+    "name": "Bigfoot Scratch",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxScratchBigfoot",
+    "slug": "scratch-bigfoot",
+    "gameVariants": ["nyxScratchBigfoot"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2017/04/game.nyxScratchBigFoot.thumbnail.200x128.jpg",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/07/game.nyxScratchBigfoot.thumbnail.512x512_v3.jpg",
+        "altText": "Bigfoot Scratch",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/07/game.nyxScratchBigfoot.thumbnail.750x848_v3.jpg",
+        "altText": "Bigfoot Scratch",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/07/game.nyxScratchBigfoot.thumbnail.660x370_v3.jpg",
+        "altText": "Bigfoot Scratch",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxScratchBigfoot",
+    "gameStudio": "Light And Wonder",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxScratchDrLove",
+    "name": "Dr Love Scratch",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxScratchDrLove",
+    "slug": "scratch-dr-love",
+    "gameVariants": ["nyxScratchDrLove"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2017/05/game.nyxScratchDrLove.thumbnail.200x128.jpg",
+        "altText": "Dr Love Scratch",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxScratchDrLove.thumbnail.512x512.jpg",
+        "altText": "Dr Love Scratch",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxScratchDrLove.thumbnail.750x848.jpg",
+        "altText": "Dr Love Scratch",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxScratchDrLove.thumbnail.660x370.jpg",
+        "altText": "Dr Love Scratch",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxScratchDrLove",
+    "gameStudio": "Light And Wonder",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxScratchEasternDragon",
+    "name": "Eastern Dragon Scratch",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxScratchEasternDragon",
+    "slug": "scratch-eastern-dragon",
+    "gameVariants": ["nyxScratchEasternDragon"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2017/04/game.nyxScratchEasternDragon.thumbnail.200x128.jpg",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxScratchEasternDragon.thumbnail.512x512.jpg",
+        "altText": "Eastern Dragon Scratch",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxScratchEasternDragon.thumbnail.750x848.jpg",
+        "altText": "Eastern Dragon Scratch",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxScratchEasternDragon.thumbnail.660x370.jpg",
+        "altText": "Eastern Dragon Scratch",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxScratchEasternDragon",
+    "gameStudio": "Light And Wonder",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxScratchGoldenMane",
+    "name": "Golden Mane Scratch",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxScratchGoldenMane",
+    "slug": "golden-mane",
+    "gameVariants": ["nyxScratchGoldenMane"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2019/01/game.nyxScratchGoldenMane.thumbnail.200x128.jpg",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxScratchGoldenMane.thumbnail.512x512.jpg",
+        "altText": "Golden Mane Scratch",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/07/game.nyxScratchGoldenMane.thumbnail.750x848_v3.jpg",
+        "altText": "Golden Mane Scratch",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxScratchGoldenMane.thumbnail.660x370.jpg",
+        "altText": "Golden Mane Scratch",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxScratchGoldenMane",
+    "gameStudio": "Light And Wonder",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxScratchMadMadMonkey",
+    "name": "Mad Mad Monkey Scratch",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxScratchMadMadMonkey",
+    "slug": "scratch-mad-madmonkey",
+    "gameVariants": ["nyxScratchMadMadMonkey"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2018/12/game.nyxScratchMadMadMonkey.thumbnail.200x128_v3.jpg",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxScratchMadMadMonkey.thumbnail.512x512.jpg",
+        "altText": "Mad Mad Monkey Scratch",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/07/game.nyxScratchMadMadMonkey.thumbnail.750x848_v3.jpg",
+        "altText": "Mad Mad Monkey Scratch",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxScratchMadMadMonkey.thumbnail.660x370.jpg",
+        "altText": "Mad Mad Monkey Scratch",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxScratchMadMadMonkey",
+    "gameStudio": "Light And Wonder",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxScratchMedusa",
+    "name": "Medusa Scratch",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxScratchMedusa",
+    "slug": "medusa-scratch",
+    "gameVariants": ["nyxScratchMedusa"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2017/04/game.nyxMedusaScratch.thumbnail.200x128.jpg",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxMedusaScratch.thumbnail.512x512.jpg",
+        "altText": "Medusa Scratch",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxMedusaScratch.thumbnail.750x848.jpg",
+        "altText": "Medusa Scratch",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxMedusaScratch.thumbnail.660x370.jpg",
+        "altText": "Medusa Scratch",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxMedusaScratch",
+    "gameStudio": "Light And Wonder",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxScratchOilMania",
+    "name": "Oil Mania Scratch",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxScratchOilMania",
+    "slug": "scratch-oil-mania",
+    "gameVariants": ["nyxScratchOilMania"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/06/game.nyxScratchOilMania.thumbnail.200x128.jpg",
+        "altText": "Oil Mania Scratch",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "height": 0,
+        "width": 0
+      },
+      "thumbnailPortrait": {
+        "height": 0,
+        "width": 0
+      },
+      "thumbnailLandscape": {
+        "height": 0,
+        "width": 0
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxScratchOilMania",
+    "gameStudio": "Light And Wonder",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxScratchPandamania",
+    "name": "Pandamania Scratch",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxScratchPandamania",
+    "slug": "scratch-pandamania",
+    "gameVariants": ["nyxScratchPandamania"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/03/game.nyxScratchPandaMania.thumbnail.200x128_v3.jpg",
+        "altText": "Panda Mania",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/11/game.nyxScratchPandamania.thumbnail.512x512.jpg",
+        "altText": "Pandamania Scratch",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxScratchPandamania.thumbnail.750x848.jpg",
+        "altText": "Pandamania Scratch",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxScratchPandamania.thumbnail.660x370.jpg",
+        "altText": "Pandamania Scratch",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxScratchPandamania",
+    "gameStudio": "Light And Wonder",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxShoreThing",
+    "name": "Shore Thing",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxShoreThing",
+    "slug": "shore-thing-pull-tab",
+    "gameVariants": ["nyxShoreThing"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2017/09/game.nyxShoreThingPullTab.thumbnail.200x128.jpg",
+        "altText": "Shore Thing",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxShoreThingPullTab.thumbnail.512x512.jpg",
+        "altText": "Shore Thing",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxShoreThingPullTab.thumbnail.750x848.jpg",
+        "altText": "Shore Thing",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxShoreThingPullTab.thumbnail.660x370.jpg",
+        "altText": "Shore Thing",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxShoreThingPullTab",
+    "gameStudio": "Realistic",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxSnakesAndLaddersPullTab",
+    "name": "Snakes And Ladders",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxSnakesAndLaddersPullTab",
+    "slug": "snakes-and-ladders-pull-tab",
+    "gameVariants": ["nyxSnakesAndLaddersPullTab"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2017/09/game.nyxSnakesAndLaddersPullTab.thumbnail.200x128.jpg",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxSnakesAndLaddersPullTab.thumbnail.512x512.jpg",
+        "altText": "Snakes And Ladders",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxSnakesAndLaddersPullTab.thumbnail.750x848.jpg",
+        "altText": "Snakes And Ladders",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxSnakesAndLaddersPullTab.thumbnail.660x370.jpg",
+        "altText": "Snakes And Ladders",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxSnakesAndLaddersPullTab",
+    "gameStudio": "Realistic",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxStarmaniaScratch",
+    "name": "Starmania Scratch",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxStarmaniaScratch",
+    "slug": "starmania-scratch",
+    "gameVariants": ["nyxStarmaniaScratch"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2019/04/game.nyxStarmaniaScratch.thumbnail.200x128.jpg",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxStarmaniaScratch.thumbnail.512x512.jpg",
+        "altText": "Starmania Scratch",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxStarmaniaScratch.thumbnail.750x848.jpg",
+        "altText": "Starmania Scratch",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxStarmaniaScratch.thumbnail.660x370.jpg",
+        "altText": "Starmania Scratch",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxStarmaniaScratch",
+    "gameStudio": "Light And Wonder",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxSunkenTreasure",
+    "name": "Sunken Treasure",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxSunkenTreasure",
+    "slug": "sunken-treasure-pull-tab",
+    "gameVariants": ["nyxSunkenTreasure"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2017/09/game.nyxSunkenTreasurePullTab.thumbnail.200x128.jpg",
+        "altText": "Sunken Treasure",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxSunkenTreasurePullTab.thumbnail.512x512.jpg",
+        "altText": "Sunken Treasure",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxSunkenTreasurePullTab.thumbnail.750x848.jpg",
+        "altText": "Sunken Treasure",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxSunkenTreasurePullTab.thumbnail.660x370.jpg",
+        "altText": "Sunken Treasure",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxSunkenTreasurePullTab",
+    "gameStudio": "Realistic",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxSunsetReelsPullTab",
+    "name": "Sunset Reels",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxSunsetReelsPullTab",
+    "slug": "sunset-reels-pull-tab",
+    "gameVariants": ["nyxSunsetReelsPullTab"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2017/09/game.nyxSunsetReelsPullTab.thumbnail.200x128.jpg",
+        "altText": "Sunset Reels",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.nyxSunsetReelsPullTab.thumbnail.512x512.jpg",
+        "altText": "Sunset Reels",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.nyxSunsetReelsPullTab.thumbnail.750x848.jpg",
+        "altText": "Sunset Reels",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.nyxSunsetReelsPullTab.thumbnail.660x370.jpg",
+        "altText": "Sunset Reels",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxSunsetReelsPullTab",
+    "gameStudio": "Realistic",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxTheLinkScratch",
+    "name": "The Link Scratch",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxTheLinkScratch",
+    "slug": "the-link-scratch",
+    "gameVariants": ["nyxTheLinkScratch"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2018/10/game.nyxTheLinkScratch.thumbnail.200x128.jpg",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxTheLinkScratch.thumbnail.512x512.jpg",
+        "altText": "The Link Scratch",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxTheLinkScratch.thumbnail.750x848.jpg",
+        "altText": "The Link Scratch",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxTheLinkScratch.thumbnail.660x370.jpg",
+        "altText": "The Link Scratch",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxTheLinkScratch",
+    "gameStudio": "Light And Wonder",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxTreasureGameVY",
+    "name": "Fortune",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxTreasureGameVY",
+    "slug": "treasure",
+    "gameVariants": ["nyxTreasureGameVY"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2017/04/game.nyxTreasureGameVY.thumbnail.200x128.jpg",
+        "altText": "Treasure",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.nyxTreasureGameVY.thumbnail.512x512.jpg",
+        "altText": "Fortune",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.nyxTreasureGameVY.thumbnail.750x848.jpg",
+        "altText": "Fortune",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/08/game.nyxTreasureGameVY.thumbnail.660x370.jpg",
+        "altText": "Fortune",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxTreasureGameVY",
+    "gameStudio": "G Games",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxWitchPickingsScratch",
+    "name": "Witch Pickings Scratch",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "nyxWitchPickingsScratch",
+    "slug": "witch-pickings-scratch",
+    "gameVariants": ["nyxWitchPickingsScratch"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2019/02/game.nyxWitchPickingsScratch.thumbnail.200x128_v3.jpg",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/06/game.nyxWitchPickingsScratch.thumbnail.512x512_v3.jpg",
+        "altText": "Witch Pickings Scratch",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/07/game.nyxWitchPickingsScratch.thumbnail.750x848_v3.jpg",
+        "altText": "Witch Pickings Scratch",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/07/game.nyxWitchPickingsScratch.thumbnail.660x370_v3.jpg",
+        "altText": "Witch Pickings Scratch",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxWitchPickingsScratch",
+    "gameStudio": "Light And Wonder",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "pariPlayZodiacFortune",
+    "name": "Zodiac Fortune",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "PariPlay",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "pariPlayZodiacFortune",
+    "slug": "zodiac-fortune",
+    "gameVariants": ["pariPlayZodiacFortune"],
+    "collections": ["Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/03/game.pariplayDirectZodiacFortune.thumbnail.200x128_v4.jpg",
+        "altText": "Zodiac Fortune",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/03/game.pariplayDirectZodiacFortune.thumbnail.512x512_v4.jpg",
+        "altText": "Zodiac Fortune",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/03/game.pariplayDirectZodiacFortune.thumbnail.750x848_v4.jpg",
+        "altText": "Zodiac Fortune",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/03/game.pariplayDirectZodiacFortune.thumbnail.660x370_v4.jpg",
+        "altText": "Zodiac Fortune",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "pariplayDirectZodiacFortune",
+    "gameStudio": "Wizard Games",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "playtechRoguesDraw",
+    "name": "Rogues Draw",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Playtech",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "playtechRoguesDraw",
+    "slug": "rogues-draw",
+    "gameVariants": ["playtechRoguesDraw"],
+    "collections": ["OtherGames", "Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/10/game.playtechRoguesDraw.thumbnail.200x128.jpg",
+        "altText": "Rogues Draw",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/10/game.playtechRoguesDraw.thumbnail.512x512.jpg",
+        "altText": "Rogues Draw",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/10/game.playtechRoguesDraw.thumbnail.750x848.jpg",
+        "altText": "Rogues Draw",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/10/game.playtechRoguesDraw.thumbnail.660x370.jpg",
+        "altText": "Rogues Draw",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "playtechRoguesDraw",
+    "gameStudio": "Rare Stone",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "pragmaticPlay7Piggies5000",
+    "name": "7 Piggies 5,000",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "PragmaticPlay",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "pragmaticPlay7Piggies5000",
+    "slug": "7-piggies-5000",
+    "gameVariants": ["pragmaticPlay7Piggies5000"],
+    "collections": ["Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.pragmaticPlay7Piggies5000.thumbnail.200x128.jpg",
+        "altText": "7 Piggies 5,000",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.pragmaticPlay7Piggies5000.thumbnail.512x512.jpg",
+        "altText": "7 Piggies 5,000",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/07/game.pragmaticPlay7Piggies5000.thumbnail.750x848_v3.jpg",
+        "altText": "7 Piggies 5,000",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.pragmaticPlay7Piggies5000.thumbnail.660x370.jpg",
+        "altText": "7 Piggies 5,000",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "pragmaticPlay7Piggies5000",
+    "gameStudio": "Pragmatic Play",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "pragmaticPlayHotSafari50000",
+    "name": "Hot Safari 50,000",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "PragmaticPlay",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "pragmaticPlayHotSafari50000",
+    "slug": "hot-safari-50000",
+    "gameVariants": ["pragmaticPlayHotSafari50000"],
+    "collections": ["Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.pragmaticPlayHotSafari50000.thumbnail.200x128.jpg",
+        "altText": "Hot Safari 50000",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.pragmaticPlayHotSafari50000.thumbnail.512x512.jpg",
+        "altText": "Hot Safari 50000",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.pragmaticPlayHotSafari50000.thumbnail.750x848.jpg",
+        "altText": "Hot Safari 50000",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.pragmaticPlayHotSafari50000.thumbnail.660x370.jpg",
+        "altText": "Hot Safari 50000",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "pragmaticPlayHotSafari50000",
+    "gameStudio": "Pragmatic Play",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "pragmaticPlayPandaGold10000",
+    "name": "Panda Gold 10,000",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "PragmaticPlay",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "pragmaticPlayPandaGold10000",
+    "slug": "panda-gold-10000",
+    "gameVariants": ["pragmaticPlayPandaGold10000"],
+    "collections": ["Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.pragmaticPlayPandaGold10000.thumbnail.200x128.jpg",
+        "altText": "Panda Gold 10,000",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.pragmaticPlayPandaGold10000.thumbnail.512x512.jpg",
+        "altText": "Panda Gold 10,000",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/07/game.pragmaticPlayPandaGold10000.thumbnail.750x848_v3.jpg",
+        "altText": "Panda Gold 10,000",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.pragmaticPlayPandaGold10000.thumbnail.660x370.jpg",
+        "altText": "Panda Gold 10,000",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "pragmaticPlayPandaGold10000",
+    "gameStudio": "Pragmatic Play",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "pragmaticPlayQueenOfGold100000",
+    "name": "Queen of Gold 100,000",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "PragmaticPlay",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "pragmaticPlayQueenOfGold100000",
+    "slug": "queen-of-gold-100000",
+    "gameVariants": ["pragmaticPlayQueenOfGold100000"],
+    "collections": ["Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.pragmaticPlayQueenOfGold100000.thumbnail.200x128.jpg",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.pragmaticPlayQueenOfGold100000.thumbnail.512x512.jpg",
+        "altText": "Queen of Gold 100,000",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.pragmaticPlayQueenOfGold100000.thumbnail.750x848.jpg",
+        "altText": "Queen of Gold 100,000",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.pragmaticPlayQueenOfGold100000.thumbnail.660x370.jpg",
+        "altText": "Queen of Gold 100,000",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "pragmaticPlayQueenOfGold100000",
+    "gameStudio": "Pragmatic Play",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "quickspinCashVault1",
+    "name": "Cash Vault 1",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "quickspinCashVault1",
+    "slug": "cash-vault-1",
+    "gameVariants": ["quickspinCashVault1"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/09/game.relaxCashVault1.thumbnail.200x128_v3.jpg",
+        "altText": "Cash Vault 1",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/09/game.relaxCashVault1.thumbnail.512x512_v4.jpg",
+        "altText": "Cash Vault 1",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/09/game.relaxCashVault1.thumbnail.750x848_v4.jpg",
+        "altText": "Cash Vault 1",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/09/game.relaxCashVault1.thumbnail.660x370_v4.jpg",
+        "altText": "Cash Vault 1",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "jackpotValue": {
+      "value": 30000,
+      "currencyCode": "EUR",
+      "currencySymbol": "€"
+    },
+    "contentKey": "relaxCashVault1",
+    "gameStudio": "Hacksaw",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "quickspinDreamCarSUV",
+    "name": "Dream Car SUV",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "quickspinDreamCarSUV",
+    "slug": "dream-car-suv",
+    "gameVariants": ["quickspinDreamCarSUV"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2019/06/game.relaxDreamCarSUV.thumbnail.200x128.jpg",
+        "altText": "Dream Car SUV",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/07/game.relaxDreamCarSUV.thumbnail.512x512_v4.jpg",
+        "altText": "Dream Car SUV",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/07/game.relaxDreamCarSUV.thumbnail.750x848_v4.jpg",
+        "altText": "Dream Car SUV",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxDreamCarSUV.thumbnail.660x370_v3.jpg",
+        "altText": "Dream Car SUV",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "jackpotValue": {
+      "value": 75000,
+      "currencyCode": "EUR",
+      "currencySymbol": "€"
+    },
+    "contentKey": "relaxDreamCarSUV",
+    "gameStudio": "Hacksaw",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "quickspinDreamCarUrban",
+    "name": "Dream Car Urban",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "quickspinDreamCarUrban",
+    "slug": "dream-car-urban",
+    "gameVariants": ["quickspinDreamCarUrban"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2019/06/game.relaxDreamCarUrban.thumbnail.200x128.jpg",
+        "altText": "Dream Car Urban",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxDreamCarUrban.thumbnail.512x512_v3.jpg",
+        "altText": "Dream Car Urban",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/07/game.relaxDreamCarUrban.thumbnail.750x848_v4.jpg",
+        "altText": "Dream Car Urban",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxDreamCarUrban.thumbnail.660x370_v3.jpg",
+        "altText": "Dream Car Urban",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "jackpotValue": {
+      "value": 25000,
+      "currencyCode": "EUR",
+      "currencySymbol": "€"
+    },
+    "contentKey": "relaxDreamCarUrban",
+    "gameStudio": "Hacksaw",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "quickspinHappyScratch",
+    "name": "Happy Scratch",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "quickspinHappyScratch",
+    "slug": "happy-scratch",
+    "gameVariants": ["quickspinHappyScratch"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2019/06/game.relaxHappyScratch.thumbnail.200x128.jpg",
+        "altText": "Happy Scratch",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxHappyScratch.thumbnail.512x512_v3.jpg",
+        "altText": "Happy Scratch",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/07/game.relaxHappyScratch.thumbnail.750x848_v4.jpg",
+        "altText": "Happy Scratch",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxHappyScratch.thumbnail.660x370_v3.jpg",
+        "altText": "Happy Scratch",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxHappyScratch",
+    "gameStudio": "Hacksaw",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "quickspinHotTargetArcade",
+    "name": "Hot Target Arcade",
+    "shouldShowJackpot": true,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "quickspinHotTargetArcade",
+    "slug": "hot-target-arcade",
+    "gameVariants": ["quickspinHotTargetArcade"],
+    "collections": ["SuperWheel"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Betsson/Common/neutral/image/2024/09/game.relaxHotTargetArcade.thumbnail.200x128.jpg",
+        "altText": "Hot Target Arcade",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Betsson/Common/neutral/image/2024/09/game.relaxHotTargetArcade.thumbnail.512x512.jpg",
+        "altText": "Hot Target Arcade",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Betsson/Common/neutral/image/2024/09/game.relaxHotTargetArcade.thumbnail.750x848.jpg",
+        "altText": "Hot Target Arcade",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Betsson/Common/neutral/image/2024/09/game.relaxHotTargetArcade.thumbnail.660x370.jpg",
+        "altText": "Hot Target Arcade",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "jackpotValue": {
+      "value": 143103.93,
+      "currencyCode": "EUR",
+      "currencySymbol": "€"
+    },
+    "contentKey": "relaxHotTargetArcade",
+    "gameStudio": "Stakelogic",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "quickspinKingTreasure",
+    "name": "King Treasure",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "quickspinKingTreasure",
+    "slug": "king-treasure",
+    "gameVariants": ["quickspinKingTreasure"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2019/06/game.relaxKingTreasure.thumbnail.200x128.jpg",
+        "altText": "King Treasure",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxKingTreasure.thumbnail.512x512_v3.jpg",
+        "altText": "King Treasure",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxKingTreasure.thumbnail.750x848_v3.jpg",
+        "altText": "King Treasure",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxKingTreasure.thumbnail.660x370_v3.jpg",
+        "altText": "King Treasure",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "jackpotValue": {
+      "value": 30000,
+      "currencyCode": "EUR",
+      "currencySymbol": "€"
+    },
+    "contentKey": "relaxKingTreasure",
+    "gameStudio": "Hacksaw",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "quickspinLuckyNumbersx16",
+    "name": "Lucky Numbers X16",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "quickspinLuckyNumbersx16",
+    "slug": "lucky-numbers-x16",
+    "gameVariants": ["quickspinLuckyNumbersx16"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2019/06/game.relaxLuckyNumbersX16.thumbnail.200x128.jpg",
+        "altText": "Lucky Numbers X16",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxLuckyNumbersx16.thumbnail.512x512_v3.jpg",
+        "altText": "Lucky Numbers X16",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxLuckyNumbersx16.thumbnail.750x848_v3.jpg",
+        "altText": "Lucky Numbers X16",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxLuckyNumbersx16.thumbnail.660x370_v3.jpg",
+        "altText": "Lucky Numbers X16",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "jackpotValue": {
+      "value": 250000,
+      "currencyCode": "EUR",
+      "currencySymbol": "€"
+    },
+    "contentKey": "relaxLuckyNumbersx16",
+    "gameStudio": "Hacksaw",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "quickspinLuckyScratch",
+    "name": "Lucky Scratch",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "quickspinLuckyScratch",
+    "slug": "lucky-scratch",
+    "gameVariants": ["quickspinLuckyScratch"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2019/06/game.relaxLuckyScratch.thumbnail.200x128.jpg",
+        "altText": "Lucky Scratch",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxLuckyScratch.thumbnail.512x512_v3.jpg",
+        "altText": "Lucky Scratch",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxLuckyScratch.thumbnail.750x848_v3.jpg",
+        "altText": "Lucky Scratch",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxLuckyScratch.thumbnail.660x370_v3.jpg",
+        "altText": "Lucky Scratch",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxLuckyScratch",
+    "gameStudio": "Hacksaw",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "quickspinPrinceTreasure",
+    "name": "Prince Treasure",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "quickspinPrinceTreasure",
+    "slug": "prince-treasure",
+    "gameVariants": ["quickspinPrinceTreasure"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2019/06/game.relaxPrinceTreasure.thumbnail.200x128.jpg",
+        "altText": "Prince Treasure",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxPrinceTreasure.thumbnail.512x512_v3.jpg",
+        "altText": "Prince Treasure",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxPrinceTreasure.thumbnail.750x848_v3.jpg",
+        "altText": "Prince Treasure",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxPrinceTreasure.thumbnail.660x370_v3.jpg",
+        "altText": "Prince Treasure",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "jackpotValue": {
+      "value": 10000,
+      "currencyCode": "EUR",
+      "currencySymbol": "€"
+    },
+    "contentKey": "relaxPrinceTreasure",
+    "gameStudio": "Hacksaw",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "quickspinQueenTreasure",
+    "name": "Queen Treasure",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "quickspinQueenTreasure",
+    "slug": "queen-treasure",
+    "gameVariants": ["quickspinQueenTreasure"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2019/06/game.relaxQueenTreasure.thumbnail.200x128.jpg",
+        "altText": "Queen Treasure",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxQueenTreasure.thumbnail.512x512_v3.jpg",
+        "altText": "Queen Treasure",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxQueenTreasure.thumbnail.750x848_v3.jpg",
+        "altText": "Queen Treasure",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxQueenTreasure.thumbnail.660x370_v3.jpg",
+        "altText": "Queen Treasure",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "jackpotValue": {
+      "value": 20000,
+      "currencyCode": "EUR",
+      "currencySymbol": "€"
+    },
+    "contentKey": "relaxQueenTreasure",
+    "gameStudio": "Hacksaw",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "quickspinScratchy",
+    "name": "Scratchy",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "quickspinScratchy",
+    "slug": "scratchy",
+    "gameVariants": ["quickspinScratchy"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2019/06/game.relaxScratchy.thumbnail.200x128.jpg",
+        "altText": "Scratchy",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxScratchy.thumbnail.512x512.jpg",
+        "altText": "Scratchy",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxScratchy.thumbnail.750x848.jpg",
+        "altText": "Scratchy",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxScratchy.thumbnail.660x370.jpg",
+        "altText": "Scratchy",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "jackpotValue": {
+      "value": 50000,
+      "currencyCode": "EUR",
+      "currencySymbol": "€"
+    },
+    "contentKey": "relaxScratchy",
+    "gameStudio": "Hacksaw",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "quickspinShaveTheBeard",
+    "name": "Shave The Beard",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "quickspinShaveTheBeard",
+    "slug": "shave-the-beard",
+    "gameVariants": ["quickspinShaveTheBeard"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2019/08/game.relaxShaveTheBeard.thumbnail.200x128_v3.png",
+        "altText": "Shave The Beard",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxShaveTheBeard.thumbnail.512x512.jpg",
+        "altText": "Shave The Beard",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxShaveTheBeard.thumbnail.750x848.jpg",
+        "altText": "Shave The Beard",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxShaveTheBeard.thumbnail.660x370.jpg",
+        "altText": "Shave The Beard",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "jackpotValue": {
+      "value": 50000,
+      "currencyCode": "EUR",
+      "currencySymbol": "€"
+    },
+    "contentKey": "relaxShaveTheBeard",
+    "gameStudio": "Hacksaw",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "quickspinStickEm",
+    "name": "Stick’Em",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "quickspinStickEm",
+    "slug": "stickem",
+    "gameVariants": ["quickspinStickEm"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2019/09/game.relaxStickEm.thumbnail.200x128_v3.png",
+        "altText": "Stick'Em",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxStickEm.thumbnail.512x512.jpg",
+        "altText": "Stick'Em",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxStickEm.thumbnail.750x848.jpg",
+        "altText": "Stick'Em",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/11/game.relaxStickEm.thumbnail.660x370.jpg",
+        "altText": "Stick'Em",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxStickEm",
+    "gameStudio": "Hacksaw",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "relaxPenaltyShootOut",
+    "name": "Penalty Shoot Out",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "Scratch",
+    "gameTypes": ["Scratch"],
+    "primaryVariantId": "relaxPenaltyShootOut",
+    "slug": "penalty-shoot-out",
+    "gameVariants": ["relaxPenaltyShootOut"],
+    "collections": ["Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/05/game.relaxPenaltyShootOut.thumbnail.200x128.jpg",
+        "altText": "Penalty Shoot Out",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.relaxPenaltyShootOut.thumbnail.512x512_v3.png",
+        "altText": "Penalty Shoot Out",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.relaxPenaltyShootOut.thumbnail.750x848_v3.png",
+        "altText": "Penalty Shoot Out",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.relaxPenaltyShootOut.thumbnail.660x370_v3.png",
+        "altText": "Penalty Shoot Out",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxPenaltyShootOut",
+    "gameStudio": "Evoplay",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  }
+]

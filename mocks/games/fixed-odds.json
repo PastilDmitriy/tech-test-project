@@ -1,0 +1,98 @@
+[
+  {
+    "id": "nyxPokerDice",
+    "name": "Poker Dice",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "FixedOdds",
+    "gameTypes": ["FixedOdds"],
+    "primaryVariantId": "nyxPokerDice",
+    "slug": "poker-dice",
+    "gameVariants": ["nyxPokerDice"],
+    "collections": ["TableGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2017/04/game.nyxPokerDice.thumbnail.200x128.jpg",
+        "altText": "Poker Dice",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxPokerDice.thumbnail.512x512.jpg",
+        "altText": "Poker Dice",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxPokerDice.thumbnail.750x848.jpg",
+        "altText": "Poker Dice",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxPokerDice.thumbnail.660x370.jpg",
+        "altText": "Poker Dice",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxPokerDice",
+    "gameStudio": "1x2 Gaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxSpinlotto",
+    "name": "Spinlotto",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "FixedOdds",
+    "gameTypes": ["FixedOdds"],
+    "primaryVariantId": "nyxSpinlotto",
+    "slug": "spinlotto",
+    "gameVariants": ["nyxSpinlotto"],
+    "collections": ["Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2017/04/game.nyxSpinlotto.thumbnail.200x128.jpg",
+        "altText": "Spinlotto",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxSpinlotto.thumbnail.512x512.jpg",
+        "altText": "Spinlotto",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxSpinlotto.thumbnail.750x848.jpg",
+        "altText": "Spinlotto",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxSpinlotto.thumbnail.660x370.jpg",
+        "altText": "Spinlotto",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxSpinlotto",
+    "gameStudio": "Light And Wonder",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  }
+]

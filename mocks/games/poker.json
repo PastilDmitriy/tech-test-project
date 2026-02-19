@@ -1,0 +1,50 @@
+[
+  {
+    "id": "playtechPlaytechPoker",
+    "name": "Poker",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Playtech",
+    "primaryType": "Poker",
+    "gameTypes": ["Poker"],
+    "primaryVariantId": "playtechPlaytechPoker",
+    "slug": "poker",
+    "gameVariants": ["playtechPlaytechPoker"],
+    "collections": ["Poker"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Betsson/Common/neutral/image/2021/05/game.playtechPlaytechPoker.thumbnail.196x196_v4.jpg",
+        "altText": "Poker",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/07/game.playtechPlaytechPoker.thumbnail.512x512_v3.jpg",
+        "altText": "Poker",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/07/game.playtechPlaytechPoker.thumbnail.750x848_v3.jpg",
+        "altText": "Poker",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/07/game.playtechPlaytechPoker.thumbnail.660x370_v3.jpg",
+        "altText": "Poker",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "playtechPlaytechPoker",
+    "gameStudio": "Playtech",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  }
+]
