@@ -1,0 +1,128 @@
+[
+  {
+    "id": "raceBetsSportsbookMillionGame",
+    "name": "The Betsson Million",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "RaceBetsSportsbook",
+    "primaryType": "Sportsbook",
+    "gameTypes": ["Sportsbook"],
+    "primaryVariantId": "raceBetsSportsbookMillionGame",
+    "slug": "the-betsson-million",
+    "gameVariants": ["raceBetsSportsbookMillionGame"],
+    "collections": ["RaceBetsMillionGame"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Betsson/Common/neutral/image/2024/10/game.default.thumbnail.200x128_v3.png",
+        "altText": "Betsson",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "height": 0,
+        "width": 0
+      },
+      "thumbnailPortrait": {
+        "height": 0,
+        "width": 0
+      },
+      "thumbnailLandscape": {
+        "height": 0,
+        "width": 0
+      }
+    },
+    "metaTags": [],
+    "contentKey": "raceBetsSportsbookMillionGame",
+    "gameStudio": "RaceBetsSportsbook",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "sportsbookB2BMainGame",
+    "name": "sportsbookB2BMainGame",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Sportsbook",
+    "primaryType": "Sportsbook",
+    "gameTypes": ["Sportsbook"],
+    "primaryVariantId": "sportsbookB2BMainGame",
+    "slug": "sportsbookb2bmaingame",
+    "gameVariants": ["sportsbookB2BMainGame"],
+    "collections": ["Sportsbook"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Betsson/Common/neutral/image/2024/10/game.default.thumbnail.200x128_v3.png",
+        "altText": "Betsson",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "height": 0,
+        "width": 0
+      },
+      "thumbnailPortrait": {
+        "height": 0,
+        "width": 0
+      },
+      "thumbnailLandscape": {
+        "height": 0,
+        "width": 0
+      }
+    },
+    "metaTags": [],
+    "contentKey": "sportsbookB2BMainGame",
+    "gameStudio": "Sportsbook",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "sportsbookB2BmFEGame",
+    "name": "sportsbookB2BmFEGame",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Sportsbook",
+    "primaryType": "Sportsbook",
+    "gameTypes": ["Sportsbook"],
+    "primaryVariantId": "sportsbookB2BmFEGame",
+    "slug": "sportsbookb2bmfegame",
+    "gameVariants": ["sportsbookB2BmFEGame"],
+    "collections": ["Sportsbook"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Betsson/Common/neutral/image/2024/10/game.default.thumbnail.200x128_v3.png",
+        "altText": "Betsson",
+        "height": 128,
+        "width": 200
+      },
+      "thumbnailSquare": {
+        "height": 0,
+        "width": 0
+      },
+      "thumbnailPortrait": {
+        "height": 0,
+        "width": 0
+      },
+      "thumbnailLandscape": {
+        "height": 0,
+        "width": 0
+      }
+    },
+    "metaTags": [],
+    "contentKey": "sportsbookB2BmFEGame",
+    "gameStudio": "Sportsbook",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  }
+]

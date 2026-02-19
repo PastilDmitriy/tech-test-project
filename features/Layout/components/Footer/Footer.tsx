@@ -26,26 +26,6 @@ export const Footer = () => {
         <p>Your gaming destination.</p>
         <p>© {currentYear} Questplay. All rights reserved.</p>
       </aside>
-      <aside>
-        <p className="footer-title">Newsletter</p>
-        <div className="form-control w-80">
-          <label className="label">
-            <span className="label-text">
-              Stay updated with our latest news
-            </span>
-          </label>
-          <div className="join w-full">
-            <input
-              type="email"
-              placeholder="email@example.com"
-              className="input join-item input-bordered w-full"
-            />
-            <button type="button" className="btn join-item btn-primary">
-              Subscribe
-            </button>
-          </div>
-        </div>
-      </aside>
     </footer>
   );
 };

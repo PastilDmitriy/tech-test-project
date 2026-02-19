@@ -14,7 +14,7 @@ export const GameCard = ({ game }: GameCardProps) => {
       <figure className="relative aspect-square w-full">
         <Image
           src={thumbnail.url}
-          alt={thumbnail.altText}
+          alt={thumbnail.altText ?? name ?? "Game thumbnail"}
           className="object-cover"
           fill
           sizes="(max-width: 640px) 50vw, (max-width: 768px) 33vw, (max-width: 1024px) 25vw, 16vw"

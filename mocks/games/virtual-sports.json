@@ -1,0 +1,1778 @@
+[
+  {
+    "id": "betradarVirtualBaseballIn-Play",
+    "name": "Virtual Baseball In-Play",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Betradar",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "betradarVirtualBaseballIn-Play",
+    "slug": "virtual-baseball-in-play",
+    "gameVariants": ["betradarVirtualBaseballIn-Play"],
+    "collections": ["LobbyVirtualSports"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.betradarVirtualBaseballInPlay.thumbnail.196x196_v4.jpg",
+        "altText": "Virtual Baseball In-Play",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.betradarVirtualBaseballInPlay.thumbnail.512x512_v4.jpg",
+        "altText": "Virtual Baseball In-Play",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.betradarVirtualBaseballInPlay.thumbnail.750x848_v4.jpg",
+        "altText": "Virtual Baseball In-Play",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.betradarVirtualBaseballInPlay.thumbnail.660x370_v4.jpg",
+        "altText": "Virtual Baseball In-Play",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "betradarVirtualBaseballInPlay",
+    "gameStudio": "Betradar",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "betradarVirtualBasketballLeague",
+    "name": "Virtual Basketball League",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Betradar",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "betradarVirtualBasketballLeague",
+    "slug": "virtual-basketball-league",
+    "gameVariants": ["betradarVirtualBasketballLeague"],
+    "collections": ["LobbyVirtualSports"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/07/game.betradarVirtualBasketballLeague.thumbnail.196x196_v4.jpg",
+        "altText": "Virtual Basketball League",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualBasketballLeague.thumbnail.512x512_v4.png",
+        "altText": "Virtual Basketball League",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualBasketballLeague.thumbnail.750x848_v4.png",
+        "altText": "Virtual Basketball League",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualBasketballLeague.thumbnail.660x370_v4.png",
+        "altText": "Virtual Basketball League",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "betradarVirtualBasketballLeague",
+    "gameStudio": "Betradar",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "betradarVirtualCricket",
+    "name": "Virtual Cricket",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Betradar",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "betradarVirtualCricket",
+    "slug": "virtual-cricket",
+    "gameVariants": ["betradarVirtualCricket"],
+    "collections": ["LobbyVirtualSports"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/04/game.betradarVirtualCricket.thumbnail.196x196.jpg",
+        "altText": "Virtual Cricket",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/04/game.betradarVirtualCricket.thumbnail.512x512.jpg",
+        "altText": "Virtual Cricket",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/04/game.betradarVirtualCricket.thumbnail.750x848.jpg",
+        "altText": "Virtual Cricket",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/04/game.betradarVirtualCricket.thumbnail.660x370.jpg",
+        "altText": "Virtual Cricket",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "betradarVirtualCricket",
+    "gameStudio": "Betradar",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "betradarVirtualFootballAsianCup",
+    "name": "Virtual Football Asian Cup",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Betradar",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "betradarVirtualFootballAsianCup",
+    "slug": "virtual-football-asian-cup",
+    "gameVariants": ["betradarVirtualFootballAsianCup"],
+    "collections": ["LobbyVirtualSports", "VirtualFootball"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.betradarVirtualFootballAsianCup.thumbnail.196x196_v4.jpg",
+        "altText": "Virtual Football Asian Cup",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualFootballAsianCup.thumbnail.512x512_v5.png",
+        "altText": "Virtual Football Asian Cup",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualFootballAsianCup.thumbnail.750x848_v5.png",
+        "altText": "Virtual Football Asian Cup",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualFootballAsianCup.thumbnail.660x370_v5.png",
+        "altText": "Virtual Football Asian Cup",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "betradarVirtualFootballAsianCup",
+    "gameStudio": "Betradar",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "betradarVirtualFootballBundesliga",
+    "name": "Virtual Football Bundesliga",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Betradar",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "betradarVirtualFootballBundesliga",
+    "slug": "virtual-football-bundesliga",
+    "gameVariants": ["betradarVirtualFootballBundesliga"],
+    "collections": ["LobbyVirtualSports", "VirtualFootball"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/12/game.betradarVirtualFootballBundesliga.thumbnail.196x196_v3.jpg",
+        "altText": "Virtual Football Bundesliga",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/12/game.betradarVirtualFootballBundesliga.thumbnail.512x512_v3.jpg",
+        "altText": "Virtual Football Bundesliga",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/12/game.betradarVirtualFootballBundesliga.thumbnail.750x848_v3.jpg",
+        "altText": "Virtual Football Bundesliga",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/12/game.betradarVirtualFootballBundesliga.thumbnail.660x370_v3.jpg",
+        "altText": "Virtual Football Bundesliga",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "betradarVirtualFootballBundesliga",
+    "gameStudio": "Betradar",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "betradarVirtualFootballChampionsCup",
+    "name": "Virtual Football Champions Cup",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Betradar",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "betradarVirtualFootballChampionsCup",
+    "slug": "virtual-football-champions-cup",
+    "gameVariants": ["betradarVirtualFootballChampionsCup"],
+    "collections": ["LobbyVirtualSports", "VirtualFootball"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.betradarVirtualFootballChampionsCup.thumbnail.196x196_v3.jpg",
+        "altText": "Virtual Football Champions Cup",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualFootballChampionsCup.thumbnail.512x512_v4.png",
+        "altText": "Virtual Football Champions Cup",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualFootballChampionsCup.thumbnail.750x848_v4.png",
+        "altText": "Virtual Football Champions Cup",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualFootballChampionsCup.thumbnail.660x370_v4.png",
+        "altText": "Virtual Football Champions Cup",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "betradarVirtualFootballChampionsCup",
+    "gameStudio": "Betradar",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "betradarVirtualFootballEnglishLeague",
+    "name": "Virtual Football English League",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Betradar",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "betradarVirtualFootballEnglishLeague",
+    "slug": "virtual-football-english-league",
+    "gameVariants": ["betradarVirtualFootballEnglishLeague"],
+    "collections": ["LobbyVirtualSports", "VirtualFootball"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.betradarVirtualFootballEnglishLeague.thumbnail.196x196_v4.jpg",
+        "altText": "Virtual Football English League",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualFootballEnglishLeague.thumbnail.512x512_v5.png",
+        "altText": "Virtual Football English League",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualFootballEnglishLeague.thumbnail.750x848_v5.png",
+        "altText": "Virtual Football English League",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualFootballEnglishLeague.thumbnail.660x370_v5.png",
+        "altText": "Virtual Football English League",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "betradarVirtualFootballEnglishLeague",
+    "gameStudio": "Betradar",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "betradarVirtualFootballEuroCup",
+    "name": "Virtual Football Euro Cup",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Betradar",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "betradarVirtualFootballEuroCup",
+    "slug": "virtual-football-euro-cup",
+    "gameVariants": ["betradarVirtualFootballEuroCup"],
+    "collections": ["LobbyVirtualSports", "VirtualFootball"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.betradarVirtualFootballEuroCup.thumbnail.196x196_v3.jpg",
+        "altText": "Virtual Football Euro Cup",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualFootballEuroCup.thumbnail.512x512_v4.png",
+        "altText": "Virtual Football Euro Cup",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualFootballEuroCup.thumbnail.750x848_v4.png",
+        "altText": "Virtual Football Euro Cup",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualFootballEuroCup.thumbnail.660x370_v4.png",
+        "altText": "Virtual Football Euro Cup",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "betradarVirtualFootballEuroCup",
+    "gameStudio": "Betradar",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "betradarVirtualFootballNationsCup",
+    "name": "Virtual Football Nations Cup",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Betradar",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "betradarVirtualFootballNationsCup",
+    "slug": "virtual-football-nations-cup",
+    "gameVariants": ["betradarVirtualFootballNationsCup"],
+    "collections": ["LobbyVirtualSports", "VirtualFootball"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.betradarVirtualFootballNationsCup.thumbnail.196x196_v3.jpg",
+        "altText": "Virtual Football Nations Cup",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.betradarVirtualFootballNationsCup.thumbnail.512x512_v3.jpg",
+        "altText": "Virtual Football Nations Cup",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.betradarVirtualFootballNationsCup.thumbnail.750x848_v3.jpg",
+        "altText": "Virtual Football Nations Cup",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.betradarVirtualFootballNationsCup.thumbnail.660x370_v3.jpg",
+        "altText": "Virtual Football Nations Cup",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "betradarVirtualFootballNationsCup",
+    "gameStudio": "Betradar",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "betradarVirtualFootballPeruLeague",
+    "name": "Liga 1",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Betradar",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "betradarVirtualFootballPeruLeague",
+    "slug": "liga-1",
+    "gameVariants": ["betradarVirtualFootballPeruLeague"],
+    "collections": ["LobbyVirtualSports", "VirtualFootball"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/08/game.betradarVirtualFootballPeruLeague.thumbnail.196x196.jpg",
+        "altText": "Liga 1",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/08/game.betradarVirtualFootballPeruLeague.thumbnail.512x512.jpg",
+        "altText": "Liga 1",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/08/game.betradarVirtualFootballPeruLeague.thumbnail.750x848.jpg",
+        "altText": "Liga 1",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/08/game.betradarVirtualFootballPeruLeague.thumbnail.660x370.jpg",
+        "altText": "Liga 1",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "betradarVirtualFootballPeruLeague",
+    "gameStudio": "Betradar",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "betradarVirtualFootballWorldCup",
+    "name": "Virtual Football World Cup",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Betradar",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "betradarVirtualFootballWorldCup",
+    "slug": "virtual-football-world-cup",
+    "gameVariants": ["betradarVirtualFootballWorldCup"],
+    "collections": ["LobbyVirtualSports", "VirtualFootball"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/04/game.betradarVirtualFootballWorldCup.thumbnail.196x196_v5.jpg",
+        "altText": "Virtual - Football World Cup",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualFootballWorldCup.thumbnail.512x512_v3.png",
+        "altText": "Virtual Football World Cup",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualFootballWorldCup.thumbnail.750x848_v3.png",
+        "altText": "Virtual Football World Cup",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualFootballWorldCup.thumbnail.660x370_v3.png",
+        "altText": "Virtual Football World Cup",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "betradarVirtualFootballWorldCup",
+    "gameStudio": "Betradar",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "betradarVirtualNewFootballLeague",
+    "name": "Virtual New Football League",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Betradar",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "betradarVirtualNewFootballLeague",
+    "slug": "virtual-new-football-league",
+    "gameVariants": ["betradarVirtualNewFootballLeague"],
+    "collections": ["LobbyVirtualSports", "VirtualFootball"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Betsson/Common/neutral/image/2020/06/game.betradarVirtualNewFootballLeague.thumbnail.196x196.jpg",
+        "altText": "Virtual - New Football League",
+        "height": 600,
+        "width": 600
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualNewFootballLeague.thumbnail.512x512_v3.png",
+        "altText": "Virtual New Football League",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualNewFootballLeague.thumbnail.750x848_v3.png",
+        "altText": "Virtual New Football League",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/12/game.betradarVirtualNewFootballLeague.thumbnail.660x370_v3.png",
+        "altText": "Virtual New Football League",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "betradarVirtualNewFootballLeague",
+    "gameStudio": "Betradar",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "betradarVirtualTennisIn-Play",
+    "name": "Virtual Tennis In-Play",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Betradar",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "betradarVirtualTennisIn-Play",
+    "slug": "virtual-tennis-in-play",
+    "gameVariants": ["betradarVirtualTennisIn-Play"],
+    "collections": ["LobbyVirtualSports"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.betradarVirtualTennisInPlay.thumbnail.196x196_v4.jpg",
+        "altText": "Virtual Tennis In-Play",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.betradarVirtualTennisInPlay.thumbnail.512x512_v4.jpg",
+        "altText": "Virtual Tennis In-Play",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.betradarVirtualTennisInPlay.thumbnail.750x848_v4.jpg",
+        "altText": "Virtual Tennis In-Play",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/03/game.betradarVirtualTennisInPlay.thumbnail.660x370_v4.jpg",
+        "altText": "Virtual Tennis In-Play",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "betradarVirtualTennisInPlay",
+    "gameStudio": "Betradar",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "betradarWorldMatchFootball",
+    "name": "World Match Football",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Betradar",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "betradarWorldMatchFootball",
+    "slug": "world-match-football",
+    "gameVariants": ["betradarWorldMatchFootball"],
+    "collections": ["LobbyVirtualSports", "VirtualFootball"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/01/game.betradarVirtualWorldMatchFootballEnglish.thumbnail.196x196.jpg",
+        "altText": "World Match Football",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/01/game.betradarVirtualWorldMatchFootballEnglish.thumbnail.512x512.jpg",
+        "altText": "World Match Football",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/01/game.betradarVirtualWorldMatchFootballEnglish.thumbnail.750x848.jpg",
+        "altText": "World Match Football",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/01/game.betradarVirtualWorldMatchFootballEnglish.thumbnail.660x370.jpg",
+        "altText": "World Match Football",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "betradarVirtualWorldMatchFootballEnglish",
+    "gameStudio": "Betradar",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "betradarWorldMatchFootball1",
+    "name": "World Match Football",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Betradar",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "betradarWorldMatchFootball1",
+    "slug": "world-match-football",
+    "gameVariants": ["betradarWorldMatchFootball1"],
+    "collections": ["LobbyVirtualSports", "VirtualFootball"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/01/game.betradarWorldMatchFootballTurkish.thumbnail.196x196.jpg",
+        "altText": "World Match Football",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/01/game.betradarWorldMatchFootballTurkish.thumbnail.512x512.jpg",
+        "altText": "World Match Football",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/01/game.betradarWorldMatchFootballTurkish.thumbnail.750x848.jpg",
+        "altText": "World Match Football",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/01/game.betradarWorldMatchFootballTurkish.thumbnail.660x370.jpg",
+        "altText": "World Match Football",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "betradarWorldMatchFootballTurkish",
+    "gameStudio": "Betradar",
+    "launchType": "Default",
+    "isAvailableForFun": false
+  },
+  {
+    "id": "betradarWorldMatchFootballItaly",
+    "name": "World Match Football",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Betradar",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "betradarWorldMatchFootballItaly",
+    "slug": "world-match-football",
+    "gameVariants": ["betradarWorldMatchFootballItaly"],
+    "collections": ["LobbyVirtualSports", "VirtualFootball"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/01/game.betradarWorldMatchFootballItalian.thumbnail.196x196.jpg",
+        "altText": "World Match Football",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/01/game.betradarWorldMatchFootballItalian.thumbnail.512x512.jpg",
+        "altText": "World Match Football",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/01/game.betradarWorldMatchFootballItalian.thumbnail.750x848.jpg",
+        "altText": "World Match Football",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/01/game.betradarWorldMatchFootballItalian.thumbnail.660x370.jpg",
+        "altText": "World Match Football",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "betradarWorldMatchFootballItalian",
+    "gameStudio": "Betradar",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetFootballStreak",
+    "name": "Football Streak",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "iSoftBetFootballStreak",
+    "slug": "football-streak",
+    "gameVariants": ["iSoftBetFootballStreak"],
+    "collections": ["Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/06/game.isoftbetFootballStreak.thumbnail.196x196.jpg",
+        "altText": "Football Streak",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/06/game.isoftbetFootballStreak.thumbnail.512x512_v3.jpg",
+        "altText": "Football Streak",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/06/game.isoftbetFootballStreak.thumbnail.750x848_v3.jpg",
+        "altText": "Football Streak",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/06/game.isoftbetFootballStreak.thumbnail.660x370_v3.jpg",
+        "altText": "Football Streak",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "isoftbetFootballStreak",
+    "gameStudio": "Leap Gaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetInstantGreyhounds",
+    "name": "Instant Greyhounds",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "iSoftBetInstantGreyhounds",
+    "slug": "instant-greyhounds",
+    "gameVariants": ["iSoftBetInstantGreyhounds"],
+    "collections": ["OtherGames", "VirtualRacing"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/04/game.isoftbetInstantGreyhounds.thumbnail.196x196_v3.jpg",
+        "altText": "Insant Greyhounds",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/08/game.isoftbetInstantGreyhounds.thumbnail.512x512.jpg",
+        "altText": "Instant Greyhounds",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/07/game.isoftbetInstantGreyhounds.thumbnail.750x848_v3.jpg",
+        "altText": "Instant Greyhounds",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/08/game.isoftbetInstantGreyhounds.thumbnail.660x370.jpg",
+        "altText": "Instant Greyhounds",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "iSoftBetInstantGreyhounds",
+    "gameStudio": "Leap Gaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetInstantHorses",
+    "name": "Instant Horses",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "iSoftBetInstantHorses",
+    "slug": "instant-horses",
+    "gameVariants": ["iSoftBetInstantHorses"],
+    "collections": ["OtherGames", "VirtualRacing"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/04/game.isoftbetInstantHorses.thumbnail.196x196_v3.jpg",
+        "altText": "Instant Horses",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/04/game.isoftbetInstantHorses.thumbnail.512x512_v3.png",
+        "altText": "Instant Horses",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/04/game.isoftbetInstantHorses.thumbnail.750x848_v3.png",
+        "altText": "Instant Horses",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2025/04/game.isoftbetInstantHorses.thumbnail.660x370_v3.png",
+        "altText": "Instant Horses",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "iSoftBetInstantHorses",
+    "gameStudio": "Leap Gaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetInstantSpeedway",
+    "name": "Instant Speedway",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "iSoftBetInstantSpeedway",
+    "slug": "instant-speedway",
+    "gameVariants": ["iSoftBetInstantSpeedway"],
+    "collections": ["OtherGames", "VirtualRacing"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/04/game.isoftbetInstantSpeedway.thumbnail.196x196_v3.jpg",
+        "altText": "Instant Speedway",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/08/game.isoftbetInstantSpeedway.thumbnail.512x512.jpg",
+        "altText": "Instant Speedway",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/08/game.isoftbetInstantSpeedway.thumbnail.750x848.jpg",
+        "altText": "Instant Speedway",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/08/game.isoftbetInstantSpeedway.thumbnail.660x370.jpg",
+        "altText": "Instant Speedway",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "iSoftBetInstantSpeedway",
+    "gameStudio": "Leap Gaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetInstantVelodrome",
+    "name": "Instant Velodrome",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "iSoftBetInstantVelodrome",
+    "slug": "instant-velodrome",
+    "gameVariants": ["iSoftBetInstantVelodrome"],
+    "collections": ["OtherGames", "VirtualRacing"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/04/game.isoftbetInstantVelodrome.thumbnail.196x196_v3.jpg",
+        "altText": "Instant Velodrome",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/07/game.isoftbetInstantVelodrome.thumbnail.512x512.jpg",
+        "altText": "Instant Velodrome",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/07/game.isoftbetInstantVelodrome.thumbnail.750x848.jpg",
+        "altText": "Instant Velodrome",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/07/game.isoftbetInstantVelodrome.thumbnail.660x370.jpg",
+        "altText": "Instant Velodrome",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "iSoftBetInstantVelodrome",
+    "gameStudio": "Leap Gaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetVirtualFootballCup",
+    "name": "Virtual Football Cup",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "iSoftBetVirtualFootballCup",
+    "slug": "virtual-football-cup",
+    "gameVariants": ["iSoftBetVirtualFootballCup"],
+    "collections": ["Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/07/game.isoftbetVirtualFootballCup.thumbnail.196x196_v3.jpg",
+        "altText": "Virtual Football Cup",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/07/game.isoftbetVirtualFootballCup.thumbnail.512x512_v3.jpg",
+        "altText": "Virtual Football Cup",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/07/game.isoftbetVirtualFootballCup.thumbnail.750x848_v3.jpg",
+        "altText": "Virtual Football Cup",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/07/game.isoftbetVirtualFootballCup.thumbnail.660x370_v3.jpg",
+        "altText": "Virtual Football Cup",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "isoftbetVirtualFootballCup",
+    "gameStudio": "Leap Gaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetVirtualInstantFootball",
+    "name": "Instant Football",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": false,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "iSoftBetVirtualInstantFootball",
+    "slug": "virtual-instant-football",
+    "gameVariants": ["iSoftBetVirtualInstantFootball"],
+    "collections": ["VirtualFootball"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/04/game.isoftbetVirtualInstantFootball.thumbnail.196x196_v3.jpg",
+        "altText": "Instant Football",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/11/game.isoftbetVirtualInstantFootball.thumbnail.512x512.jpg",
+        "altText": "Virtual Instant Football",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/11/game.isoftbetVirtualInstantFootball.thumbnail.750x848.jpg",
+        "altText": "Virtual Instant Football",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/11/game.isoftbetVirtualInstantFootball.thumbnail.660x370.jpg",
+        "altText": "Virtual Instant Football",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "isoftbetVirtualInstantFootball",
+    "gameStudio": "Leap Gaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "iSoftBetVirtualSoccer",
+    "name": "Virtual Soccer",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": false,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "ISoftBetCasino",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "iSoftBetVirtualSoccer",
+    "slug": "virtual-soccer",
+    "gameVariants": ["iSoftBetVirtualSoccer"],
+    "collections": ["VirtualFootball"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/03/game.isoftbetVirtualSoccer.thumbnail.196x196.jpg",
+        "altText": "Virtual Soccer",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/06/game.isoftbetVirtualSoccer.thumbnail.512x512.jpg",
+        "altText": "Virtual Soccer",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/06/game.isoftbetVirtualSoccer.thumbnail.750x848.jpg",
+        "altText": "Virtual Soccer",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/06/game.isoftbetVirtualSoccer.thumbnail.660x370.jpg",
+        "altText": "Virtual Soccer",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "iSoftBetVirtualSoccer",
+    "gameStudio": "ISoftBet",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxRushCarsGo",
+    "name": "Rush Cars Go",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "nyxRushCarsGo",
+    "slug": "rush-cars-go",
+    "gameVariants": ["nyxRushCarsGo"],
+    "collections": ["OtherGames", "VirtualRacing"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/04/game.nyxRushCarsGo.thumbnail.196x196_v3.jpg",
+        "altText": "Rush Cars Go",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushCarsGo.thumbnail.512x512.jpg",
+        "altText": "Rush Cars Go",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushCarsGo.thumbnail.750x848.jpg",
+        "altText": "Rush Cars Go",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushCarsGo.thumbnail.660x370.jpg",
+        "altText": "Rush Cars Go",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxRushCarsGo",
+    "gameStudio": "Inspired",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxRushCricketGo",
+    "name": "Rush Cricket Go",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "nyxRushCricketGo",
+    "slug": "rush-cricket-go",
+    "gameVariants": ["nyxRushCricketGo"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/04/game.nyxRushCricketGo.thumbnail.196x196_v3.jpg",
+        "altText": "Rush Cricket Go",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushCricketGo.thumbnail.512x512.jpg",
+        "altText": "Rush Cricket Go",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushCricketGo.thumbnail.750x848.jpg",
+        "altText": "Rush Cricket Go",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushCricketGo.thumbnail.660x370.jpg",
+        "altText": "Rush Cricket Go",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxRushCricketGo",
+    "gameStudio": "Inspired",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxRushDartsGo",
+    "name": "Rush Darts Go!",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "nyxRushDartsGo",
+    "slug": "rush-darts-go",
+    "gameVariants": ["nyxRushDartsGo"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2018/11/game.nyxRushDartsGo.thumbnail.196x196.jpg",
+        "altText": "Rush Darts Go",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushDartsGo.thumbnail.512x512.jpg",
+        "altText": "Rush Darts Go!",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushDartsGo.thumbnail.750x848.jpg",
+        "altText": "Rush Darts Go!",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushDartsGo.thumbnail.660x370.jpg",
+        "altText": "Rush Darts Go!",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxRushDartsGo",
+    "gameStudio": "Inspired",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxRushFootballGo",
+    "name": "Rush Football Go",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "nyxRushFootballGo",
+    "slug": "rush-football-go",
+    "gameVariants": ["nyxRushFootballGo"],
+    "collections": ["OtherGames", "VirtualFootball"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/04/game.nyxRushFootballGo.thumbnail.196x196_v3.jpg",
+        "altText": "Rush Football Go",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushFootballGo.thumbnail.512x512.jpg",
+        "altText": "Rush Football Go",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2021/07/game.nyxRushFootballGo.thumbnail.750x848_v3.jpg",
+        "altText": "Rush Football Go",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushFootballGo.thumbnail.660x370.jpg",
+        "altText": "Rush Football Go",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxRushFootballGo",
+    "gameStudio": "Inspired",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxRushGolfLive",
+    "name": "Rush Golf Live",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "nyxRushGolfLive",
+    "slug": "rush-golf-live",
+    "gameVariants": ["nyxRushGolfLive"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/04/game.nyxRushGolfLive.thumbnail.196x196_v3.jpg",
+        "altText": "Rush Golf Live",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushGolfLive.thumbnail.512x512.jpg",
+        "altText": "Rush Golf Live",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushGolfLive.thumbnail.750x848.jpg",
+        "altText": "Rush Golf Live",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushGolfLive.thumbnail.660x370.jpg",
+        "altText": "Rush Golf Live",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxRushGolfLive",
+    "gameStudio": "Inspired",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxRushGreyhoundsLive",
+    "name": "Rush Greyhounds Live",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "nyxRushGreyhoundsLive",
+    "slug": "rush-greyhounds-live",
+    "gameVariants": ["nyxRushGreyhoundsLive"],
+    "collections": ["OtherGames", "VirtualRacing"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/04/game.nyxRushGreyhoundsLive.thumbnail.196x196_v3.jpg",
+        "altText": "Rush Greyhounds Live",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushGreyhoundsLive.thumbnail.512x512.jpg",
+        "altText": "Rush Greyhounds Live",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushGreyhoundsLive.thumbnail.750x848.jpg",
+        "altText": "Rush Greyhounds Live",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushGreyhoundsLive.thumbnail.660x370.jpg",
+        "altText": "Rush Greyhounds Live",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxRushGreyhoundsLive",
+    "gameStudio": "Inspired",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxRushHorsesGo",
+    "name": "Rush Horses Go",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "nyxRushHorsesGo",
+    "slug": "rush-horses-go",
+    "gameVariants": ["nyxRushHorsesGo"],
+    "collections": ["OtherGames", "VirtualRacing"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/04/game.nyxRushHorsesGo.thumbnail.196x196_v3.jpg",
+        "altText": "Rush Horses Go",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushHorsesGo.thumbnail.512x512.jpg",
+        "altText": "Rush Horses Go",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushHorsesGo.thumbnail.750x848.jpg",
+        "altText": "Rush Horses Go",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushHorsesGo.thumbnail.660x370.jpg",
+        "altText": "Rush Horses Go",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxRushHorsesGo",
+    "gameStudio": "Inspired",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "nyxRushTennisGo",
+    "name": "Rush Tennis Go",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "NyxCasino",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "nyxRushTennisGo",
+    "slug": "rush-tennis-go",
+    "gameVariants": ["nyxRushTennisGo"],
+    "collections": ["OtherGames"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/04/game.nyxRushTennisGo.thumbnail.196x196_v3.jpg",
+        "altText": "Rush Tennis Go",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushTennisGo.thumbnail.512x512.jpg",
+        "altText": "Rush Tennis Go",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushTennisGo.thumbnail.750x848.jpg",
+        "altText": "Rush Tennis Go",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2020/12/game.nyxRushTennisGo.thumbnail.660x370.jpg",
+        "altText": "Rush Tennis Go",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "nyxRushTennisGo",
+    "gameStudio": "Inspired",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "relaxEuroleagueScheduledLegends",
+    "name": "Euroleague Scheduled Legends",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "relaxEuroleagueScheduledLegends",
+    "slug": "euroleague-scheduled-legends",
+    "gameVariants": ["relaxEuroleagueScheduledLegends"],
+    "collections": ["Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/04/game.relaxEuroleagueScheduledLegends.thumbnail.196x196.jpg",
+        "altText": "Euroleague Scheduled Legends",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/04/game.relaxEuroleagueScheduledLegends.thumbnail.512x512.jpg",
+        "altText": "Euroleague Scheduled Legends",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/04/game.relaxEuroleagueScheduledLegends.thumbnail.750x848.jpg",
+        "altText": "Euroleague Scheduled Legends",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2023/04/game.relaxEuroleagueScheduledLegends.thumbnail.660x370.jpg",
+        "altText": "Euroleague Scheduled Legends",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxEuroleagueScheduledLegends",
+    "gameStudio": "Leap Gaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "relaxFootballCupEuro",
+    "name": "Football Cup Euro",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "relaxFootballCupEuro",
+    "slug": "football-cup-euro",
+    "gameVariants": ["relaxFootballCupEuro"],
+    "collections": ["Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/06/game.relaxFootballCupEuro.thumbnail.196x196.jpg",
+        "altText": "Football Cup Euro",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/06/game.relaxFootballCupEuro.thumbnail.512x512.jpg",
+        "altText": "Football Cup Euro",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/06/game.relaxFootballCupEuro.thumbnail.750x848.jpg",
+        "altText": "Football Cup Euro",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/06/game.relaxFootballCupEuro.thumbnail.660x370.jpg",
+        "altText": "Football Cup Euro",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxFootballCupEuro",
+    "gameStudio": "Leap Gaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "relaxFootballStreakEngland",
+    "name": "Football Streak England",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "relaxFootballStreakEngland",
+    "slug": "football-streak-england",
+    "gameVariants": ["relaxFootballStreakEngland"],
+    "collections": ["Slots", "VirtualFootball"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/05/game.relaxFootballStreakEngland.thumbnail.196x196.jpg",
+        "altText": "Football Streak England",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/05/game.relaxFootballStreakEngland.thumbnail.512x512.jpg",
+        "altText": "Football Streak England",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/05/game.relaxFootballStreakEngland.thumbnail.750x848.jpg",
+        "altText": "Football Streak England",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/05/game.relaxFootballStreakEngland.thumbnail.660x370.jpg",
+        "altText": "Football Streak England",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxFootballStreakEngland",
+    "gameStudio": "Leap Gaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "relaxInstantEuroLeagueLegends",
+    "name": "Instant EuroLeague Legends",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "relaxInstantEuroLeagueLegends",
+    "slug": "instant-euroleague-legends",
+    "gameVariants": ["relaxInstantEuroLeagueLegends"],
+    "collections": ["Slots"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/09/game.relaxInstantEuroLeagueLegends.thumbnail.196x196.jpg",
+        "altText": "Instant EuroLeague Legends",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/09/game.relaxInstantEuroLeagueLegends.thumbnail.512x512.jpg",
+        "altText": "Instant EuroLeague Legends",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/09/game.relaxInstantEuroLeagueLegends.thumbnail.750x848.jpg",
+        "altText": "Instant EuroLeague Legends",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2022/09/game.relaxInstantEuroLeagueLegends.thumbnail.660x370.jpg",
+        "altText": "Instant EuroLeague Legends",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxInstantEuroLeagueLegends",
+    "gameStudio": "Leap Gaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  },
+  {
+    "id": "relaxVirtualBrazilianLeague",
+    "name": "Virtual Brazilian League",
+    "shouldShowJackpot": false,
+    "isHot": false,
+    "hasMobileVersion": true,
+    "isNew": false,
+    "isMiniGame": false,
+    "sortOrder": 0,
+    "provider": "Relax",
+    "primaryType": "VirtualSports",
+    "gameTypes": ["VirtualSports"],
+    "primaryVariantId": "relaxVirtualBrazilianLeague",
+    "slug": "virtual-brazilian-league",
+    "gameVariants": ["relaxVirtualBrazilianLeague"],
+    "collections": ["LobbyVirtualSports"],
+    "content": {
+      "thumbnail": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/08/game.relaxVirtualBrazilianLeague.thumbnail.196x196.jpg",
+        "altText": "Virtual Brazilian League",
+        "height": 196,
+        "width": 196
+      },
+      "thumbnailSquare": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/08/game.relaxVirtualBrazilianLeague.thumbnail.512x512.jpg",
+        "altText": "Virtual Brazilian League",
+        "height": 512,
+        "width": 512
+      },
+      "thumbnailPortrait": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/08/game.relaxVirtualBrazilianLeague.thumbnail.750x848.jpg",
+        "altText": "Virtual Brazilian League",
+        "height": 848,
+        "width": 750
+      },
+      "thumbnailLandscape": {
+        "url": "https://imageapi.bpsgameserver.com/v3/bgr/Common/Common/neutral/image/2024/08/game.relaxVirtualBrazilianLeague.thumbnail.660x370.jpg",
+        "altText": "Virtual Brazilian League",
+        "height": 370,
+        "width": 660
+      }
+    },
+    "metaTags": [],
+    "contentKey": "relaxVirtualBrazilianLeague",
+    "gameStudio": "Leap Gaming",
+    "launchType": "Default",
+    "isAvailableForFun": true
+  }
+]

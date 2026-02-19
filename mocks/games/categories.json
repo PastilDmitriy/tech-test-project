@@ -1,0 +1,17 @@
+{
+  "categories": [
+    { "id": "slots", "name": "Slots", "file": "slots.json" },
+    { "id": "table-games", "name": "Table Games", "file": "table-games.json" },
+    {
+      "id": "virtual-sports",
+      "name": "Virtual Sports",
+      "file": "virtual-sports.json"
+    },
+    { "id": "live-casino", "name": "Live Casino", "file": "live-casino.json" },
+    { "id": "crash-games", "name": "Crash Games", "file": "crash-games.json" },
+    { "id": "scratch", "name": "Scratch", "file": "scratch.json" },
+    { "id": "fixed-odds", "name": "Fixed Odds", "file": "fixed-odds.json" },
+    { "id": "poker", "name": "Poker", "file": "poker.json" },
+    { "id": "sportsbook", "name": "Sportsbook", "file": "sportsbook.json" }
+  ]
+}
