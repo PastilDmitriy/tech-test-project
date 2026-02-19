@@ -1,14 +1,30 @@
-import { getGamesByCategory } from "@/services/games/readGames";
+import { getBaseUrl } from "@/lib/getBaseUrl";
+import { getCategories, getGamesFromApi } from "@/services/games";
 import { GamesSection } from "./components/GamesSection";
 
-const SLOTS_LIMIT = 6;
+const GAMES_PER_SECTION = 6;
 
 export const HomePage = async () => {
-  const slots = getGamesByCategory("slots", SLOTS_LIMIT);
+  const baseUrl = await getBaseUrl();
+  const categories = await getCategories(baseUrl);
 
-  return (
-    <div className="container mx-auto px-4 py-8">
-      <GamesSection title="Slots" games={slots} seeAllHref="/games/slots" />
-    </div>
+  const sections = await Promise.all(
+    categories.map(async (category) => {
+      const games = await getGamesFromApi(
+        baseUrl,
+        category.id,
+        GAMES_PER_SECTION
+      );
+      return (
+        <GamesSection
+          key={category.id}
+          title={category.name}
+          games={games}
+          seeAllHref={`/games/${category.id}`}
+        />
+      );
+    })
   );
+
+  return <>{sections}</>;
 };

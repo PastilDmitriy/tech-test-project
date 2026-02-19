@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import { headers } from "next/headers";
 import { Layout } from "@/features/Layout";
 import { GameDataProvider } from "@/providers";
+import { getBaseUrl } from "@/lib/getBaseUrl";
 import { getCategories } from "@/services/games";
 import "./globals.css";
 
@@ -26,13 +26,7 @@ export default async function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const headersList = await headers();
-  const host = headersList.get("host") ?? "localhost:3000";
-  const protocol = process.env.NODE_ENV === "production" ? "https" : "http";
-  const baseUrl = process.env.VERCEL_URL
-    ? `https://${process.env.VERCEL_URL}`
-    : `${protocol}://${host}`;
-
+  const baseUrl = await getBaseUrl();
   const categories = await getCategories(baseUrl);
 
   return (
